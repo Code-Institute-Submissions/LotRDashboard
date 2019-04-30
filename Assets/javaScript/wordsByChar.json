@@ -1,0 +1,5118 @@
+[{
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "01: Prologue",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 4
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "01: Prologue",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 5
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "01: Prologue",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 460
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "01: Prologue",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 20
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "02: Concerning Hobbits",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 214
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "03: The Shire",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 70
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "03: The Shire",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 128
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "03: The Shire",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 197
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "03: The Shire",
+  "Character": "Hobbit Kids",
+  "Race": "Hobbit",
+  "Words": 10
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "03: The Shire",
+  "Character": "Hobbits",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "04: Very Old Friends",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 339
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "04: Very Old Friends",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 64
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "04: Very Old Friends",
+  "Character": "Lobelia Sackville-Baggins",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 326
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 32
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Hobbits",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Lobelia Sackville-Baggins",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 19
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Mrs. Bracegirdle",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 15
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Proudfoot",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "05: A Long Expected Party",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "06: Farewell Dear Bilbo",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 182
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "06: Farewell Dear Bilbo",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 148
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "07: Keep It Secret Keep It Safe",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "07: Keep It Secret Keep It Safe",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 33
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "07: Keep It Secret Keep It Safe",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 60
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "08: The Account of Isildur",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 107
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "08: The Account of Isildur",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "08: The Account of Isildur",
+  "Character": "Hobbits",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "08: The Account of Isildur",
+  "Character": "Nazgul",
+  "Race": "Nazgul",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Gaffer",
+  "Race": "Hobbit",
+  "Words": 21
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Hobbits",
+  "Race": "Hobbit",
+  "Words": 53
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 53
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 61
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Rosie",
+  "Race": "Hobbit",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 10
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Sandyman",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "09: At The Green Dragon",
+  "Character": "Ted",
+  "Race": "Hobbit",
+  "Words": 55
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "10: The Shadow Of The Past",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 28
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "10: The Shadow Of The Past",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 139
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "10: The Shadow Of The Past",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 541
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "10: The Shadow Of The Past",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "10: The Shadow Of The Past",
+  "Character": "Hobbits",
+  "Race": "Hobbit",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "10: The Shadow Of The Past",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 84
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "11: The Passing Of The Elves",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 43
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "11: The Passing Of The Elves",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 40
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "12: Saruman The White",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 85
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "12: Saruman The White",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 274
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "13: A Shortcut To Mushrooms",
+  "Character": "Farmer Maggot",
+  "Race": "Hobbit",
+  "Words": 21
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "13: A Shortcut To Mushrooms",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 37
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "13: A Shortcut To Mushrooms",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 58
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "13: A Shortcut To Mushrooms",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 32
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "13: A Shortcut To Mushrooms",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 48
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "14: Buckleberry Ferry",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 20
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "14: Buckleberry Ferry",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 43
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "14: Buckleberry Ferry",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 14
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "14: Buckleberry Ferry",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 76
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 68
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Gatekeeper",
+  "Race": "Men",
+  "Words": 38
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Innkeeper",
+  "Race": "Men",
+  "Words": 76
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Man",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 39
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 30
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "15: At The Sign of the Prancing Pony",
+  "Character": "Voice Of The Ring",
+  "Race": "Ainur",
+  "Words": 19
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "16: The Nazgul",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 96
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "16: The Nazgul",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 29
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "16: The Nazgul",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 28
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "16: The Nazgul",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 25
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "16: The Nazgul",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "17: The Midgewater Marshes",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 33
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "17: The Midgewater Marshes",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "17: The Midgewater Marshes",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "18: The Spoiling Of Isengard",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 20
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "18: The Spoiling Of Isengard",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 22
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "18: The Spoiling Of Isengard",
+  "Character": "Voice Of Sauron",
+  "Race": "Ainur",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "19: A Knife In The Dark",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 53
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "19: A Knife In The Dark",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 16
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "19: A Knife In The Dark",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 13
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "19: A Knife In The Dark",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "19: A Knife In The Dark",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 24
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "20: The Caverns Of Isengard",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 5
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "21: Flight To The Ford",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 48
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "21: Flight To The Ford",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 131
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "21: Flight To The Ford",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "21: Flight To The Ford",
+  "Character": "Nazgul",
+  "Race": "Nazgul",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "21: Flight To The Ford",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "21: Flight To The Ford",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 34
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "22: Rivendell",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "23: Many Meetings",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 36
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "23: Many Meetings",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 5
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "23: Many Meetings",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 107
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "23: Many Meetings",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 104
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "23: Many Meetings",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 63
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "23: Many Meetings",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 33
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "24: The Fate Of The Ring",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 260
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "24: The Fate Of The Ring",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 102
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "24: The Fate Of The Ring",
+  "Character": "Isildur",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "25: The Sword That Was Broken",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 25
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "25: The Sword That Was Broken",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 47
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "25: The Sword That Was Broken",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 39
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "26: The Evenstar",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 24
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "26: The Evenstar",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 57
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 40
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 220
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 167
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 24
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 85
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 38
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 34
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Man",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 24
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 18
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "27: The Council Of Elrond",
+  "Character": "Voice Of The Ring",
+  "Race": "Ainur",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "28: Gilraen's Memorial",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 11
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "28: Gilraen's Memorial",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 65
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "29: Bilbo's Gifts",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 105
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "29: Bilbo's Gifts",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "30: The Departure Of The Fellowship",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 48
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "30: The Departure Of The Fellowship",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "30: The Departure Of The Fellowship",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 15
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 68
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 47
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 10
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "31: The Ring Goes South",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 30
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 61
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 18
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 19
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "32: The Pass Of Caradhras",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 68
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 31
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 31
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 30
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 202
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 52
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 11
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "33: Moria",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "34: A Journey In The Dark",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 39
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "34: A Journey In The Dark",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 349
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "34: A Journey In The Dark",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "34: A Journey In The Dark",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "34: A Journey In The Dark",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 10
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "34: A Journey In The Dark",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 5
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 89
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 37
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 8
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "35: Balin's Tomb",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 13
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "36: The Bridge Of Khazad-dûm",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 45
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "36: The Bridge Of Khazad-dûm",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "36: The Bridge Of Khazad-dûm",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 4
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "36: The Bridge Of Khazad-dûm",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 83
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "36: The Bridge Of Khazad-dûm",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "36: The Bridge Of Khazad-dûm",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 4
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 26
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 27
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 19
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 84
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Haldir",
+  "Race": "Elf",
+  "Words": 51
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 7
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "37: Lothlorien",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 16
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 149
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Celeborn",
+  "Race": "Elf",
+  "Words": 61
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 135
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Haldir",
+  "Race": "Elf",
+  "Words": 19
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 41
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "38: Caras Galadhon",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 49
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "39: The Mirror Of Galadriel",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 36
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "39: The Mirror Of Galadriel",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 214
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "40: The Fighting Uruk-hai",
+  "Character": "Lurtz",
+  "Race": "Orc",
+  "Words": 1
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "40: The Fighting Uruk-hai",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 83
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Celeborn",
+  "Race": "Elf",
+  "Words": 99
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 166
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 81
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 20
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "41: Farewell To Lorien",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 13
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "42: The Great River",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 64
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "42: The Great River",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 103
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "42: The Great River",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 16
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "42: The Great River",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 37
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 79
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 202
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 54
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 48
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 31
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "43: Parth Galen",
+  "Character": "Voice Of The Ring",
+  "Race": "Ainur",
+  "Words": 3
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Lurtz",
+  "Race": "Orc",
+  "Words": 6
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 18
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "44: The Breaking Of The Fellowship",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "45: The Departure Of Boromir",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 72
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "45: The Departure Of Boromir",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 72
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "46: The Road Goes Ever On…",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 102
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "46: The Road Goes Ever On…",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 59
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "46: The Road Goes Ever On…",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 34
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "46: The Road Goes Ever On…",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 12
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "46: The Road Goes Ever On…",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 15
+ },
+ {
+  "Film": "The Fellowship Of The Ring",
+  "Chapter": "46: The Road Goes Ever On…",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 50
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "01: The Foundations Of Stone",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "01: The Foundations Of Stone",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "01: The Foundations Of Stone",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 39
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "01: The Foundations Of Stone",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "02: Elven Rope",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 46
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "02: Elven Rope",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 97
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "03: The Taming of Sméagol",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 123
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "03: The Taming of Sméagol",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 147
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "03: The Taming of Sméagol",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 181
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "03: The Taming of Sméagol",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 28
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "04: The Uruk-Hai",
+  "Character": "Grishnakh",
+  "Race": "Orc",
+  "Words": 10
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "04: The Uruk-Hai",
+  "Character": "Mauhur",
+  "Race": "Orc",
+  "Words": 2
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "04: The Uruk-Hai",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 19
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "04: The Uruk-Hai",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 26
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "04: The Uruk-Hai",
+  "Character": "Ugluk",
+  "Race": "Orc",
+  "Words": 51
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "05: The Three Hunters",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 59
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "05: The Three Hunters",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 35
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "05: The Three Hunters",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 25
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "06: The Burning of the Westfold",
+  "Character": "Eothain",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "06: The Burning of the Westfold",
+  "Character": "Freda",
+  "Race": "Men",
+  "Words": 24
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "06: The Burning of the Westfold",
+  "Character": "Morwen",
+  "Race": "Men",
+  "Words": 37
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "06: The Burning of the Westfold",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 29
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "06: The Burning of the Westfold",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 187
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "06: The Burning of the Westfold",
+  "Character": "Wild Man",
+  "Race": "Men",
+  "Words": 11
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "07: Massacre at the Fords of Isen",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "07: Massacre at the Fords of Isen",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "08: The Banishment of Éomer",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 88
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "08: The Banishment of Éomer",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "08: The Banishment of Éomer",
+  "Character": "Grima Wormtongue",
+  "Race": "Men",
+  "Words": 81
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "08: The Banishment of Éomer",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "09: On The Trail Of The Uruk-Hai",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "09: On The Trail Of The Uruk-Hai",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 13
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Grishnakh",
+  "Race": "Orc",
+  "Words": 44
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 10
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 68
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 20
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 14
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Ugluk",
+  "Race": "Orc",
+  "Words": 33
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "10: Night Camp At Fangorn",
+  "Character": "Uruk-hai",
+  "Race": "Orc",
+  "Words": 13
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "11: The Riders Of Rohan",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 68
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "11: The Riders Of Rohan",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 156
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "11: The Riders Of Rohan",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 24
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "11: The Riders Of Rohan",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 7
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "12: The Fate Of Merry And Pippin",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 33
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "12: The Fate Of Merry And Pippin",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 16
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "12: The Fate Of Merry And Pippin",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 3
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "13: Treebeard",
+  "Character": "Grishnakh",
+  "Race": "Orc",
+  "Words": 18
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "13: Treebeard",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 28
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "13: Treebeard",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 36
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "13: Treebeard",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 77
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "14: The Passage Of The Marshes",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 54
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "14: The Passage Of The Marshes",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 304
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "14: The Passage Of The Marshes",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 69
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "15: The White Rider",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 68
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "15: The White Rider",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 298
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "15: The White Rider",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 73
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "15: The White Rider",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 63
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "16: The Song Of The Entwives",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 4
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "16: The Song Of The Entwives",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 204
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "17: The Heir Of Númenor",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "17: The Heir Of Númenor",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 226
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "18: The Black Gate Is Closed",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 39
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "18: The Black Gate Is Closed",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 93
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "18: The Black Gate Is Closed",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 68
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "19: Ent Draft",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 63
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "19: Ent Draft",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 122
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "19: Ent Draft",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 113
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 18
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 28
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 151
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 15
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Grima Wormtongue",
+  "Race": "Men",
+  "Words": 166
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Hama",
+  "Race": "Men",
+  "Words": 21
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "20: The King Of The Golden Hall",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 56
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "21: The Funeral Of Théodred",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 24
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "22: Simbelmynë on the Burial Mounds",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 28
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "22: Simbelmynë on the Burial Mounds",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 55
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 59
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 24
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Freda",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 165
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 21
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Hama",
+  "Race": "Men",
+  "Words": 29
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "23: The King's Decision",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 49
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "24: Brego",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "24: Brego",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 36
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "24: Brego",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "25: The Ring Of Barahir",
+  "Character": "Grima Wormtongue",
+  "Race": "Men",
+  "Words": 51
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "25: The Ring Of Barahir",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 68
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "25: The Ring Of Barahir",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 18
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "26: A Daughter Of Kings",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 31
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "26: A Daughter Of Kings",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 45
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "27: Exodus From Edoras",
+  "Character": "Grima Wormtongue",
+  "Race": "Men",
+  "Words": 52
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "27: Exodus From Edoras",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 4
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "28: The Forests Of Ithilien",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 81
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "28: The Forests Of Ithilien",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 87
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "29: Gollum and Sméagol ",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 73
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "29: Gollum and Sméagol ",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 66
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "30: Of Herbs And Stewed Rabbit",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 76
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "30: Of Herbs And Stewed Rabbit",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 39
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "30: Of Herbs And Stewed Rabbit",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 91
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "30: Of Herbs And Stewed Rabbit",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 99
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "31: Dwarf Women",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "31: Dwarf Women",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 68
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "32: One of the Dúnedain",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 33
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "32: One of the Dúnedain",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 76
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "32: One of the Dúnedain",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "32: One of the Dúnedain",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 59
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "33: The Evenstar",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 97
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "33: The Evenstar",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 119
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "33: The Evenstar",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 55
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "33: The Evenstar",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 11
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 9
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 45
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Hama",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Snaga",
+  "Race": "Orc",
+  "Words": 10
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "34: The Wolves Of Isengard",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 50
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Freda",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 14
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 4
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Morwen",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Rohan Maiden",
+  "Race": "Men",
+  "Words": 15
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "35: Helm's Deep",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 49
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "36: Isengard Unleashed",
+  "Character": "Grima Wormtongue",
+  "Race": "Men",
+  "Words": 66
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "36: Isengard Unleashed",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "36: Isengard Unleashed",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "36: Isengard Unleashed",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 50
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "36: Isengard Unleashed",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 37
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "37: The Grace Of The Valar",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 8
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "38: Arwen's Fate",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 14
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "38: Arwen's Fate",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 188
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "39: The Story Foreseen From Lórien",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 190
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "40: The Windows On The West",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 143
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "40: The Windows On The West",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 75
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "40: The Windows On The West",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 63
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "40: The Windows On The West",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "41: Sons Of The Steward",
+  "Character": "Boromir",
+  "Race": "Men",
+  "Words": 132
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "41: Sons Of The Steward",
+  "Character": "Crowd",
+  "Race": "Men",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "41: Sons Of The Steward",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 250
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "41: Sons Of The Steward",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 35
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "42: The Forbidden Pool",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 92
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "42: The Forbidden Pool",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 89
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "42: The Forbidden Pool",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 35
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "42: The Forbidden Pool",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 16
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "42: The Forbidden Pool",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 64
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "42: The Forbidden Pool",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 55
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "43: Aragorn's Return",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 69
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "43: Aragorn's Return",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 9
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "43: Aragorn's Return",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 51
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "43: Aragorn's Return",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "43: Aragorn's Return",
+  "Character": "Rohan Maiden",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "43: Aragorn's Return",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 206
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "44: Entmoot",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "44: Entmoot",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 55
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "45: The Glittering Caves",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 78
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "45: The Glittering Caves",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 65
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "45: The Glittering Caves",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 13
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "45: The Glittering Caves",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 36
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "45: The Glittering Caves",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 12
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "46: Where Is The Horse And The Rider",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 30
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "46: Where Is The Horse And The Rider",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 64
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "47: Don't Be Hasty Master Meriadoc!",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 18
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "47: Don't Be Hasty Master Meriadoc!",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 7
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "47: Don't Be Hasty Master Meriadoc!",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 12
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 34
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 14
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Haldir",
+  "Race": "Elf",
+  "Words": 37
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Haleth",
+  "Race": "Men",
+  "Words": 23
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 24
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "48: The Host Of The Eldar",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "49: The Battle Of The Hornburg",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 18
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "49: The Battle Of The Hornburg",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "49: The Battle Of The Hornburg",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 50
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "49: The Battle Of The Hornburg",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 37
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "49: The Battle Of The Hornburg",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "49: The Battle Of The Hornburg",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "50: Old Entish",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 30
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "50: Old Entish",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "50: Old Entish",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 64
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "51: The Breach Of The Deeping Wall",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 12
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "51: The Breach Of The Deeping Wall",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "51: The Breach Of The Deeping Wall",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "52: The Entmoot Decides",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 58
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "52: The Entmoot Decides",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 29
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "52: The Entmoot Decides",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 42
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "53: The Retreat To The Hornburg",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 31
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "53: The Retreat To The Hornburg",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "53: The Retreat To The Hornburg",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 34
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "53: The Retreat To The Hornburg",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 1
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "53: The Retreat To The Hornburg",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "53: The Retreat To The Hornburg",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 58
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "54: Master Peregrin's Plan",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "54: Master Peregrin's Plan",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 46
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "54: Master Peregrin's Plan",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 64
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "55: Osgiliath",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "55: Osgiliath",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 23
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "55: Osgiliath",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "56: The Last March Of The Ents",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "56: The Last March Of The Ents",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "56: The Last March Of The Ents",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 105
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "57: The Nazgûl Attack",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 31
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "57: The Nazgûl Attack",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 15
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "57: The Nazgûl Attack",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 20
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "57: The Nazgûl Attack",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 53
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 73
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 6
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 20
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 21
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 5
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Rohan Maiden",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "58: Forth Eorlingas",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 63
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "59: The Flooding Of Isengard",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 3
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "59: The Flooding Of Isengard",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "59: The Flooding Of Isengard",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 15
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "60: The Tales That Really Mattered…",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 16
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "60: The Tales That Really Mattered…",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "60: The Tales That Really Mattered…",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "60: The Tales That Really Mattered…",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 186
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "60: The Tales That Really Mattered…",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "61: Fangorn Comes To Helm's Deep",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "62: The Final Tally",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 35
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "62: The Final Tally",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 7
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "63: Flotsam And Jetsam",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 77
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "63: Flotsam And Jetsam",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 56
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "64: Farewell To Faramir",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 95
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "64: Farewell To Faramir",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 18
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "64: Farewell To Faramir",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 32
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "64: Farewell To Faramir",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 54
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "65: The Battle For Middle Earth Is About To Begin",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 30
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "65: The Battle For Middle Earth Is About To Begin",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 36
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "65: The Battle For Middle Earth Is About To Begin",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 69
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "66: Gollum's Plan",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 11
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "66: Gollum's Plan",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 75
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "66: Gollum's Plan",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Two Towers",
+  "Chapter": "66: Gollum's Plan",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 53
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "01: The Finding Of The Ring",
+  "Character": "Deagol",
+  "Race": "Hobbit",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "01: The Finding Of The Ring",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "01: The Finding Of The Ring",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 98
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "02: Journey To The Cross-roads",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 18
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "02: Journey To The Cross-roads",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 41
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "02: Journey To The Cross-roads",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 77
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "03: The Road To Isengard",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "03: The Road To Isengard",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 22
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "03: The Road To Isengard",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 36
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "03: The Road To Isengard",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 51
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 111
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 23
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Grima Wormtongue",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Saruman",
+  "Race": "Ainur",
+  "Words": 301
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 98
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "04: The Voice Of Saruman",
+  "Character": "Treebeard",
+  "Race": "Ent",
+  "Words": 50
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 20
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 40
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 78
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 73
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "05: Return To Edoras",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 52
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "06: Gollum's Villany",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 46
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "06: Gollum's Villany",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 149
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "06: Gollum's Villany",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 65
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "06: Gollum's Villany",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 83
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "07: Eowyn's Dream",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "07: Eowyn's Dream",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 50
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "08: The Palantir",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 20
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "08: The Palantir",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 255
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "08: The Palantir",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 22
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "08: The Palantir",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 135
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "08: The Palantir",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 104
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "08: The Palantir",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "09: Arwen's Vision",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 36
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "09: Arwen's Vision",
+  "Character": "Figwit",
+  "Race": "Elf",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "10: The Reforging Of Narsil",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 100
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "10: The Reforging Of Narsil",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 30
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "11: Minas Tirith",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 151
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "11: Minas Tirith",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 202
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "11: Minas Tirith",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 36
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "12: The Decline Of Gondor",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 268
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "12: The Decline Of Gondor",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 22
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "13: Cross-roads Of The Fallen King",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 30
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "13: Cross-roads Of The Fallen King",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "13: Cross-roads Of The Fallen King",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 56
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "14: The Deep Breath Before The Plunge",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 163
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "14: The Deep Breath Before The Plunge",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "14: The Deep Breath Before The Plunge",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 75
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "15: Minas Morgul",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "15: Minas Morgul",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 20
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "15: Minas Morgul",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 50
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "15: Minas Morgul",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "16: Sam's Warning",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "16: Sam's Warning",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "16: Sam's Warning",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 61
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "17: Pippin's Task",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 30
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "18: Osgiliath Invaded",
+  "Character": "Damrod",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "18: Osgiliath Invaded",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 18
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "18: Osgiliath Invaded",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "18: Osgiliath Invaded",
+  "Character": "Gothmog",
+  "Race": "Orc",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "18: Osgiliath Invaded",
+  "Character": "Madril",
+  "Race": "Men",
+  "Words": 28
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "19: The Lighting Of The Beacons",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "19: The Lighting Of The Beacons",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 18
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 36
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 19
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 16
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "20: Theoren's Decision",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 73
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Damrod",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 66
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 34
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Gothmog",
+  "Race": "Orc",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Irolas",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Madril",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "21: The Fall of Osgiliath",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "22: The Wizard's Pupil",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 114
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "22: The Wizard's Pupil",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 72
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "23: The Stairs Of Cirith Ungol",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 76
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "23: The Stairs Of Cirith Ungol",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "24: Courage Is The Best Defense",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "24: Courage Is The Best Defense",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "24: Courage Is The Best Defense",
+  "Character": "Gothmog",
+  "Race": "Orc",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "24: Courage Is The Best Defense",
+  "Character": "Witch King",
+  "Race": "Nazgul",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "25: Peregrin Of The Tower Guard",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 80
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "25: Peregrin Of The Tower Guard",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 66
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "26: Allegiance To Denethor",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 89
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "26: Allegiance To Denethor",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 53
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "26: Allegiance To Denethor",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 32
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "27: The Parting Of Sam & Frodo",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 43
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "27: The Parting Of Sam & Frodo",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 79
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "27: The Parting Of Sam & Frodo",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 184
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "28: The Sacrifice Of Faramir",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 20
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "28: The Sacrifice Of Faramir",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 31
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "28: The Sacrifice Of Faramir",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 29
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "28: The Sacrifice Of Faramir",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "28: The Sacrifice Of Faramir",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 59
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 26
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 89
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 56
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 12
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Grimhold",
+  "Race": "Men",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 12
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 30
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "29: Marshalling At Dunharrow",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 24
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "30: Anduril - Flame Of The West",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 54
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "30: Anduril - Flame Of The West",
+  "Character": "Arwen",
+  "Race": "Elf",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "30: Anduril - Flame Of The West",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 168
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "30: Anduril - Flame Of The West",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "30: Anduril - Flame Of The West",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 42
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 32
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Gamling",
+  "Race": "Men",
+  "Words": 18
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 20
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 20
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "31: Aragorn Takes The Paths Of The Dead",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 16
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "32: No More Despair",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "32: No More Despair",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 60
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "33: Dwimoberg ~ The Haunted Mountain",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "33: Dwimoberg ~ The Haunted Mountain",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 45
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "33: Dwimoberg ~ The Haunted Mountain",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 123
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "34: The Muster Of Rohan",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "34: The Muster Of Rohan",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "34: The Muster Of Rohan",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "34: The Muster Of Rohan",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 63
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "35: The Paths Of The Dead",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 75
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "35: The Paths Of The Dead",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 43
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "35: The Paths Of The Dead",
+  "Character": "King Of The Dead",
+  "Race": "Dead",
+  "Words": 53
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "35: The Paths Of The Dead",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 32
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 40
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 81
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 19
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Gothmog",
+  "Race": "Orc",
+  "Words": 46
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Irolas",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 25
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "36: The Siege Of Gondor",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "37: The Corsairs Of Umbar",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "37: The Corsairs Of Umbar",
+  "Character": "Boson",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "37: The Corsairs Of Umbar",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 14
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "37: The Corsairs Of Umbar",
+  "Character": "Mercenary",
+  "Race": "Men",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "38: Shelob's Lair",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 60
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "38: Shelob's Lair",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 51
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "38: Shelob's Lair",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 64
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "38: Shelob's Lair",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "38: Shelob's Lair",
+  "Character": "Smeagol",
+  "Race": "Gollum",
+  "Words": 26
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "39: Merry's Simple Courage",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 22
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "39: Merry's Simple Courage",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "39: Merry's Simple Courage",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 83
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "39: Merry's Simple Courage",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "40: Grond ~ The Hammer Of The Underworld",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "41: The Tomb Of The Stewards",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 68
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "42: Breaking The Gate Of Gondor",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 21
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "43: The Choices Of Master Samwise Gamgee",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "43: The Choices Of Master Samwise Gamgee",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 48
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "43: The Choices Of Master Samwise Gamgee",
+  "Character": "Shagrat",
+  "Race": "Orc",
+  "Words": 55
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "44: Denethor's Madness",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 36
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "44: Denethor's Madness",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 10
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "44: Denethor's Madness",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "45: The Witch King's Hour",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 48
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "45: The Witch King's Hour",
+  "Character": "Gondor Man",
+  "Race": "Men",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "45: The Witch King's Hour",
+  "Character": "Gothmog",
+  "Race": "Orc",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "45: The Witch King's Hour",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "45: The Witch King's Hour",
+  "Character": "Witch King",
+  "Race": "Nazgul",
+  "Words": 24
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "46: The Ride Of The Rohirrim",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "46: The Ride Of The Rohirrim",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "46: The Ride Of The Rohirrim",
+  "Character": "Gothmog",
+  "Race": "Orc",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "46: The Ride Of The Rohirrim",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "46: The Ride Of The Rohirrim",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 71
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "47: The Pyre Of Denethor",
+  "Character": "Denethor",
+  "Race": "Men",
+  "Words": 42
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "47: The Pyre Of Denethor",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "47: The Pyre Of Denethor",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "48: The Battle Of The Pelennor Fields",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "48: The Battle Of The Pelennor Fields",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "48: The Battle Of The Pelennor Fields",
+  "Character": "Rohan Warrior",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "48: The Battle Of The Pelennor Fields",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 26
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "49: A Far Green Country",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 54
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "49: A Far Green Country",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "50: The Nazgul And His Prey",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "50: The Nazgul And His Prey",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "50: The Nazgul And His Prey",
+  "Character": "Witch King",
+  "Race": "Nazgul",
+  "Words": 13
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "51: The Black Ships",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 12
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "51: The Black Ships",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 19
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "52: Shieldmaiden Of Rohan",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "52: Shieldmaiden Of Rohan",
+  "Character": "Witch King",
+  "Race": "Nazgul",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "53: Victory At Minar Tirith",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "53: Victory At Minar Tirith",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "53: Victory At Minar Tirith",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "53: Victory At Minar Tirith",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "53: Victory At Minar Tirith",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "54: The Passing Of Theoden",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "54: The Passing Of Theoden",
+  "Character": "Theoden",
+  "Race": "Men",
+  "Words": 38
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "55: Oaths Fulfilled",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "55: Oaths Fulfilled",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 15
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "55: Oaths Fulfilled",
+  "Character": "King Of The Dead",
+  "Race": "Dead",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "56: The Houses Of Healing",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 3
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "56: The Houses Of Healing",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "57: Pippin Looks After Merry",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 11
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "57: Pippin Looks After Merry",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 16
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "58: The Tower Of Cirith Ungol",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 64
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "58: The Tower Of Cirith Ungol",
+  "Character": "Grobag",
+  "Race": "Orc",
+  "Words": 23
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "58: The Tower Of Cirith Ungol",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 96
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "58: The Tower Of Cirith Ungol",
+  "Character": "Shagrat",
+  "Race": "Orc",
+  "Words": 35
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "59: The Last Debate",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 82
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "59: The Last Debate",
+  "Character": "Eomer",
+  "Race": "Men",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "59: The Last Debate",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 59
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "59: The Last Debate",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 24
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "59: The Last Debate",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "60: Aragorn Masters The Palantir",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "61: The Captain And The White Lady",
+  "Character": "Eowyn",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "61: The Captain And The White Lady",
+  "Character": "Faramir",
+  "Race": "Men",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "62: In The Company Of Orcs",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 16
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "62: In The Company Of Orcs",
+  "Character": "Orc",
+  "Race": "Orc",
+  "Words": 104
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "62: In The Company Of Orcs",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 46
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "63: The Land Of Shadow",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 30
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "63: The Land Of Shadow",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 56
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "64: The Mouth Of Sauron",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 23
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "64: The Mouth Of Sauron",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 32
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "64: The Mouth Of Sauron",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "64: The Mouth Of Sauron",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "64: The Mouth Of Sauron",
+  "Character": "Mouth Of Sauron",
+  "Race": "Orc",
+  "Words": 87
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "64: The Mouth Of Sauron",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "65: The Black Gate Opens",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 103
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "65: The Black Gate Opens",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 16
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "65: The Black Gate Opens",
+  "Character": "Legolas",
+  "Race": "Elf",
+  "Words": 8
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "65: The Black Gate Opens",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 16
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "66: I Can't Carry It For You… But I Can Carry You",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 44
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "66: I Can't Carry It For You… But I Can Carry You",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 85
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "67: The Last Move",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "67: The Last Move",
+  "Character": "Voice Of Sauron",
+  "Race": "Ainur",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "68: Mount Doom",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 9
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "68: Mount Doom",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "68: Mount Doom",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 10
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "69: The Eagles Are Coming",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "70: The Crack Of Doom",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 7
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "70: The Crack Of Doom",
+  "Character": "Gollum",
+  "Race": "Gollum",
+  "Words": 5
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "70: The Crack Of Doom",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 38
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "71: Sauron Defeated",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "71: Sauron Defeated",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "72: The End Of All Things",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 37
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "72: The End Of All Things",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 31
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "73: The Fellowship Reunited",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "73: The Fellowship Reunited",
+  "Character": "Gimli",
+  "Race": "Dwarf",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "73: The Fellowship Reunited",
+  "Character": "Merry",
+  "Race": "Hobbit",
+  "Words": 1
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "74: The Return Of The King",
+  "Character": "Aragorn",
+  "Race": "Men",
+  "Words": 45
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "74: The Return Of The King",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 11
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "75: Homeward Bound",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 98
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "75: Homeward Bound",
+  "Character": "Hobbits",
+  "Race": "Hobbit",
+  "Words": 4
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "75: Homeward Bound",
+  "Character": "Pippin",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "75: Homeward Bound",
+  "Character": "Rosie",
+  "Race": "Hobbit",
+  "Words": 2
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "75: Homeward Bound",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 27
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "76: The Grey Havens",
+  "Character": "Bilbo",
+  "Race": "Hobbit",
+  "Words": 56
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "76: The Grey Havens",
+  "Character": "Elrond",
+  "Race": "Elf",
+  "Words": 6
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "76: The Grey Havens",
+  "Character": "Frodo",
+  "Race": "Hobbit",
+  "Words": 132
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "76: The Grey Havens",
+  "Character": "Galadriel",
+  "Race": "Elf",
+  "Words": 17
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "76: The Grey Havens",
+  "Character": "Gandalf",
+  "Race": "Ainur",
+  "Words": 42
+ },
+ {
+  "Film": "The Return Of The King",
+  "Chapter": "76: The Grey Havens",
+  "Character": "Sam",
+  "Race": "Hobbit",
+  "Words": 14
+ }
+]
