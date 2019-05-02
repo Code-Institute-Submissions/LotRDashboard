@@ -31,15 +31,15 @@
             <div class="card nav-card">
                 <ul class="list-unstyled components">
                     <li class="active">
-                        <a href="#">Books    <i class="fas fa-book"></i></a>
+                        <a href="/content/books.html" class="nav-anchor">Books    <i class="fas fa-book"></i></a>
                     </li>
-                    <br>
+                    <br class="nav-break">
                     <li>
-                        <a href="#">Film Data   <i class="fas fa-film"></i></a>
+                        <a href="/content/movies.html" class="nav-anchor">Film Data   <i class="fas fa-film"></i></a>
                     </li>
-                    <br>
+                    <br class="nav-break">
                     <li>
-                        <a href="#">Character List     <i class="fas fa-list"></i></a>
+                        <a href="/content/charlist.html" class="nav-anchor">Character List     <i class="fas fa-list"></i></a>
                     </li>
                 </ul>
 
@@ -78,9 +78,15 @@
                 </div>
             </div>
             <!-- This will show the % and number of characters by race in the books -->
-            <div class="card data-card">
-                <h3 class="data-header">Characters by Race <a href="#" id="raceinfo"><i class="fas fa-info"></i></a></h3>
-                <div class="race-graph"></div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="card data-card col-sm-12">
+                        <h3 class="data-header">Characters by Race <a href="#" id="raceinfo"><i class="fas fa-info"></i></a></h3>
+                        <div class="row">
+                            <div class="race-graph"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -31,16 +31,16 @@ x
             </div>
             <div class="card nav-card">
                 <ul class="list-unstyled components">
+                    <li>
+                        <a href="/content/books.html" class="nav-anchor">Books    <i class="fas fa-book"></i></a>
+                    </li>
+                    <br class="nav-break">
                     <li class="active">
-                        <a href="#">Books    <i class="fas fa-book"></i></a>
+                        <a href="/content/movies.html" class="nav-anchor">Film Data   <i class="fas fa-film"></i></a>
                     </li>
-                    <br>
+                    <br class="nav-break">
                     <li>
-                        <a href="#">Film Data   <i class="fas fa-film"></i></a>
-                    </li>
-                    <br>
-                    <li>
-                        <a href="#">Character List     <i class="fas fa-list"></i></a>
+                        <a href="/content/charlist.html" class="nav-anchor">Character List     <i class="fas fa-list"></i></a>
                     </li>
                 </ul>
 
@@ -69,20 +69,28 @@ x
             <div class="container-fluid">
                 <div class="row">
                     <div class="card data-card col-sm-12">
-                        <h3 class="data-header">Character Information <a href="#" id="charinfo"><i class="fas fa-info"></i></a></h3>
-
+                        <h3 class="data-header">Movie Profits<a href="#" id="raceinfo"><i class="fas fa-info"></i></a></h3>
                         <div class="row">
-                            <!-- This graph will show the top 10 characters by book (words spoken) -->
-                            <div id="character-graph"></div>
+                            <!-- This pie chart will show movie grossing profit data. -->
+                            <div class="movie-profits"></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- This will show the % and number of characters by race in the books -->
-            <div class="card data-card">
-                <h3 class="data-header">Characters by Race <a href="#" id="raceinfo"><i class="fas fa-info"></i></a></h3>
-                <div class="race-graph"></div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="card data-card col-sm-12">
+                        <h3 class="data-header">Movie Scores and Awards <a href="#" id="charinfo"><i class="fas fa-info"></i></a></h3>
+
+                        <div class="row">
+                            <!-- This graph will show interchangeable data from movies.json-->
+                            <div id="movie-scores"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
+
+
         </div>
     </div>
 

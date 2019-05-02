@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Bilbo');
+body,
+html {
+    font-family: Bilbo, cursive ;
+}
 /* ---- Background imagery -------- */
 
 .bg-image {
@@ -56,7 +61,7 @@
 }
 
 .fa-list {
-    padding-left: 22px;
+    padding-left: 33px;
 }
 
 .info-div {
@@ -85,7 +90,18 @@
     }
 }
 
+.list-unstyled {
+    text-decoration: none;
+}
+.active {
+    background-color: #B7A355;
+}
 
+.nav-anchor {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
 
 /* -----------------    Main Content ------ */
 
@@ -106,7 +122,9 @@
     
 }
 
+/*-------------------------------------- Books information styling */
 .data-header {
+    color:white;
     
 }
 
@@ -125,3 +143,10 @@
 .race-graph {
     
 }
+
+/*-------------------------------- Movie Data styling*/
+
+
+
+
+/*----------------------------------- Char list styling*/
