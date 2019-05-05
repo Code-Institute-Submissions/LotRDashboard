@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Bilbo');
+   @import url('https://fonts.googleapis.com/css?family=Bilbo');
 body,
 html {
-    font-family: Bilbo, cursive ;
+    font-family: Bilbo, cursive ; 
 }
 /* ---- Background imagery -------- */
 
@@ -89,12 +89,14 @@ html {
         margin-left: 0;
     }
 }
-
+/* to be added
+I need to add padding to the nav box so that the active class has more space to it, without jeopardising the space of the card */
 .list-unstyled {
     text-decoration: none;
 }
 .active {
     background-color: #B7A355;
+    padding: 3px;
 }
 
 .nav-anchor {
