@@ -26,6 +26,7 @@ function show_movie_stats(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Review Score")
         .yAxis().ticks(10)
+
 }
 
 function show_movie_revenue(ndx) {

@@ -96,7 +96,7 @@ I need to add padding to the nav box so that the active class has more space to 
 }
 .active {
     background-color: #B7A355;
-    padding: 3px;
+    padding: 2px;
 }
 
 .nav-anchor {

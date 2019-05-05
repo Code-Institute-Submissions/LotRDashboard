@@ -32,6 +32,18 @@ I have used a few different technologies to help my code this dashboard these ar
 
 # To be done
 ## Testing
+So far during the development I have been attempting to build tables and charts using DC and crossfilter. This has been trial and error work which can be seen in the version control, for example
+at the moment of writing the data is currently displaying incorrectly, I have been trying different methods to remove certain aspects of the JSON's and to manipulate the data so that it looks 
+and feels better, being as responsive as possible. 
+
+The testing for the Table Creation has been trialing and erroring different table building techniques, the first technique wrote a table with "Object, object, object..."etc. for each instance of a character
+in the associated characters.json
+
+#### To change
+1. Add a different method to create the table.
+2. Change the way the piechart shows for the movie revenue, for some reason the Two Towers is displaying nearly 5x its actual value.
+3. Figure out a way to display the top 15 Characters by Words spoken, rather than displaying all characters by the amount of times they speak.
+
 
 ## Deployment
 
