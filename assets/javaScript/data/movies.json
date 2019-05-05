@@ -1,5 +1,5 @@
 [{
-  "Name": "The Lord of the Rings Series",
+  "Series": "The Lord of the Rings Series",
   "RuntimeInMinutes": 558,
   "BudgetInMillions": 281,
   "BoxOfficeRevenueInMillions": 2917,
@@ -8,6 +8,7 @@
   "RottenTomatoesScore": 94
  },
  {
+  "Series": "The Lord of the Rings Series",
   "Name": "The Fellowship of the Ring",
   "RuntimeInMinutes": 178,
   "BudgetInMillions": 93,
@@ -17,7 +18,8 @@
   "RottenTomatoesScore": 91
  },
  {
-  "Name": "The Two Towers ",
+  "Series": "The Lord of the Rings Series",
+  "Name": "The Two Towers",
   "RuntimeInMinutes": 179,
   "BudgetInMillions": 94,
   "BoxOfficeRevenueInMillions": 926,
@@ -26,6 +28,7 @@
   "RottenTomatoesScore": 96
  },
  {
+  "Series": "The Lord of the Rings Series",
   "Name": "The Return of the King",
   "RuntimeInMinutes": 201,
   "BudgetInMillions": 94,
@@ -35,7 +38,7 @@
   "RottenTomatoesScore": 95
  },
  {
-  "Name": "The Hobbit Series",
+  "Series": "The Hobbit Series",
   "RuntimeInMinutes": 462,
   "BudgetInMillions": 675,
   "BoxOfficeRevenueInMillions": 2932,
@@ -44,6 +47,7 @@
   "RottenTomatoesScore": 66.33333333
  },
  {
+  "Series": "The Hobbit Series",
   "Name": "The Unexpected Journey",
   "RuntimeInMinutes": 169,
   "BudgetInMillions": 200,
@@ -53,6 +57,7 @@
   "RottenTomatoesScore": 64
  },
  {
+  "Series": "The Hobbit Series",
   "Name": "The Desolation of Smaug",
   "RuntimeInMinutes": 161,
   "BudgetInMillions": 217,
@@ -62,6 +67,7 @@
   "RottenTomatoesScore": 75
  },
  {
+  "Series": "The Hobbit Series",
   "Name": "The Battle of the Five Armies",
   "RuntimeInMinutes": 144,
   "BudgetInMillions": 250,

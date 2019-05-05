@@ -35,7 +35,7 @@ function show_movie_revenue(ndx) {
     dc.pieChart("#movie-profits")
         .height(400)
         .width(450)
-        .radius(400)
+        .radius(600)
         .transitionDuration(1000)
         .dimension(name_dim)
         .group(total_revenue);
