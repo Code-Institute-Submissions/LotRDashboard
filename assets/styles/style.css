@@ -23,13 +23,12 @@ html {
 }
 
 #sidebar {
-    width: 250px;
+    width: 247px;
     position: fixed;
     top: 0;
     left: 0;
     height: 100vh;
     z-index: 5;
-    background: black;
     color: #fff;
     transition: all 0.3s;
     padding: 15px;
@@ -89,8 +88,7 @@ html {
         margin-left: 0;
     }
 }
-/* to be added
-I need to add padding to the nav box so that the active class has more space to it, without jeopardising the space of the card */
+
 .list-unstyled {
     text-decoration: none;
 }
@@ -130,13 +128,18 @@ I need to add padding to the nav box so that the active class has more space to 
     
 }
 
+#race-selector {
+    padding-left: 415px;
+    font-size: 18px;
+    display: inline;
+    text-align: right;
+}
+
 #charinfo {
     
 }
 
-.character-graph {
-    
-}
+
 
 #raceinfo {
     

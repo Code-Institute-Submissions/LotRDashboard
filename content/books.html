@@ -75,22 +75,30 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="card data-card col-sm-12">
-                        <h3 class="data-header">Character Information <a href="#" id="charinfo"><i class="fas fa-info"></i></a></h3>
-
+                        <h3 class="data-header">Character Information <a href="#" id="charinfo"><i class="fas fa-info"></i></a> <span id="race-selector"></span></h3>
                         <div class="row">
-                            <!-- This graph will show the top 10 characters by book (words spoken) -->
+                            <!-- This has been changed to show speaking occurences by Race rather than character due to problems with the graph sizing -->
                             <div id="character-graph"></div>
+                            <!-- This stacked chart will show data from the races books correlating to race -->
+                            <div id="book"></div>
+
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque architecto perferendis voluptatibus dignissimos odit, quaerat eaque assumenda. Ipsa possimus adipisci perferendis aspernatur et neque eveniet cum incidunt necessitatibus eaque. Sed nobis
+                                optio voluptate quae corporis debitis laudantium quibusdam, reprehenderit repellat ex, necessitatibus iusto quas nulla ipsum nisi illo pariatur doloremque libero, cum explicabo ut. Nisi culpa officia impedit, reprehenderit,
+                                quo quae nostrum fugit deleniti dolore maiores alias voluptatem eum ad tempora delectus doloremque sed, quos pariatur ipsa error tenetur at, ipsum! Excepturi deserunt facilis sequi asperiores obcaecati harum quis repellendus
+                                quia et reiciendis accusantium quos, voluptatibus dolorem suscipit eveniet accusamus.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- This will show the % and number of characters by race in the books -->
+            <!-- This will show the % and number of speaking characters by race in the books -->
             <div class="container-fluid">
                 <div class="row">
                     <div class="card data-card col-sm-12">
                         <h3 class="data-header">Characters by Race <a href="#" id="raceinfo"><i class="fas fa-info"></i></a></h3>
                         <div class="row">
-                            <div class="race-graph"></div>
+                            <div id="race-graph"></div>
                         </div>
                     </div>
                 </div>

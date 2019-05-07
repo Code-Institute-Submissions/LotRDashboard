@@ -23,7 +23,7 @@
   "Film": "The Fellowship Of The Ring",
   "Chapter": "01: Prologue",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 20
  },
  {
@@ -205,7 +205,7 @@
   "Film": "The Fellowship Of The Ring",
   "Chapter": "08: The Account of Isildur",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 3
  },
  {
@@ -310,7 +310,7 @@
   "Film": "The Fellowship Of The Ring",
   "Chapter": "10: The Shadow Of The Past",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 2
  },
  {
@@ -1605,7 +1605,7 @@
   "Film": "The Two Towers",
   "Chapter": "03: The Taming of Sméagol",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 147
  },
  {
@@ -1619,7 +1619,7 @@
   "Film": "The Two Towers",
   "Chapter": "03: The Taming of Sméagol",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 28
  },
  {
@@ -1913,7 +1913,7 @@
   "Film": "The Two Towers",
   "Chapter": "14: The Passage Of The Marshes",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 304
  },
  {
@@ -1990,7 +1990,7 @@
   "Film": "The Two Towers",
   "Chapter": "18: The Black Gate Is Closed",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 93
  },
  {
@@ -2228,14 +2228,14 @@
   "Film": "The Two Towers",
   "Chapter": "29: Gollum and Sméagol ",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 73
  },
  {
   "Film": "The Two Towers",
   "Chapter": "29: Gollum and Sméagol ",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 66
  },
  {
@@ -2263,7 +2263,7 @@
   "Film": "The Two Towers",
   "Chapter": "30: Of Herbs And Stewed Rabbit",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 99
  },
  {
@@ -2585,7 +2585,7 @@
   "Film": "The Two Towers",
   "Chapter": "42: The Forbidden Pool",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 35
  },
  {
@@ -2606,7 +2606,7 @@
   "Film": "The Two Towers",
   "Chapter": "42: The Forbidden Pool",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 55
  },
  {
@@ -3180,7 +3180,7 @@
   "Film": "The Two Towers",
   "Chapter": "64: Farewell To Faramir",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 32
  },
  {
@@ -3222,7 +3222,7 @@
   "Film": "The Two Towers",
   "Chapter": "66: Gollum's Plan",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 75
  },
  {
@@ -3236,7 +3236,7 @@
   "Film": "The Two Towers",
   "Chapter": "66: Gollum's Plan",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 53
  },
  {
@@ -3250,14 +3250,14 @@
   "Film": "The Return Of The King",
   "Chapter": "01: The Finding Of The Ring",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 3
  },
  {
   "Film": "The Return Of The King",
   "Chapter": "01: The Finding Of The Ring",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 98
  },
  {
@@ -3271,7 +3271,7 @@
   "Film": "The Return Of The King",
   "Chapter": "02: Journey To The Cross-roads",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 41
  },
  {
@@ -3439,7 +3439,7 @@
   "Film": "The Return Of The King",
   "Chapter": "06: Gollum's Villany",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 149
  },
  {
@@ -3453,7 +3453,7 @@
   "Film": "The Return Of The King",
   "Chapter": "06: Gollum's Villany",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 83
  },
  {
@@ -3586,7 +3586,7 @@
   "Film": "The Return Of The King",
   "Chapter": "13: Cross-roads Of The Fallen King",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 13
  },
  {
@@ -3635,7 +3635,7 @@
   "Film": "The Return Of The King",
   "Chapter": "15: Minas Morgul",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 50
  },
  {
@@ -3656,7 +3656,7 @@
   "Film": "The Return Of The King",
   "Chapter": "16: Sam's Warning",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 13
  },
  {
@@ -3859,7 +3859,7 @@
   "Film": "The Return Of The King",
   "Chapter": "23: The Stairs Of Cirith Ungol",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 76
  },
  {
@@ -3943,7 +3943,7 @@
   "Film": "The Return Of The King",
   "Chapter": "27: The Parting Of Sam & Frodo",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 79
  },
  {
@@ -4321,7 +4321,7 @@
   "Film": "The Return Of The King",
   "Chapter": "38: Shelob's Lair",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 64
  },
  {
@@ -4335,7 +4335,7 @@
   "Film": "The Return Of The King",
   "Chapter": "38: Shelob's Lair",
   "Character": "Smeagol",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 26
  },
  {
@@ -4937,7 +4937,7 @@
   "Film": "The Return Of The King",
   "Chapter": "68: Mount Doom",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 17
  },
  {
@@ -4965,7 +4965,7 @@
   "Film": "The Return Of The King",
   "Chapter": "70: The Crack Of Doom",
   "Character": "Gollum",
-  "Race": "Gollum",
+  "Race": "Hobbit",
   "Words": 5
  },
  {
