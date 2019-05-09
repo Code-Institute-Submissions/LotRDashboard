@@ -8,9 +8,7 @@ function makeGraphs(error, nameData) {
     show_race_selector(ndx);
     show_name_data(ndx);
     show_book_data(ndx);
-    show_race_data(ndx);
-
-
+    //show_race_data(ndx);
     dc.renderAll();
 }
 
@@ -33,15 +31,15 @@ function show_name_data(ndx) {
     var group = dim.group();
 
     dc.barChart('#character-graph')
-        .width(600)
+        .width(700)
         .height(350)
-        .margins({ top: 10, right: 50, bottom: 30, left: 50 })
+        .margins({ top: 10, right: 60, bottom: 30, left: 60 })
         .dimension(dim)
         .group(group)
         .transitionDuration(500)
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
-        .xAxisLabel("Race")
+        .xAxisLabel("Number of times a Race has spoken")
         .yAxis().ticks(25);
 }
 
@@ -124,38 +122,55 @@ function show_book_data(ndx) {
             return 0;
         }
     });
-    
+
     var stackedChart = dc.barChart("#book");
     stackedChart
-        .width(700)
+        .width(715)
         .height(350)
+        .margins({ top: 10, right: 70, bottom: 30, left: 50 })
         .dimension(dim)
         .group(group)
         .stack(wordsByAinur, "Ainur")
-        .stack(wordsByDead, "Living Dead")
-        .stack(wordsByDwarf,"Dwarves")
+        .stack(wordsByDead, "Undead")
+        .stack(wordsByDwarf, "Dwarves")
         .stack(wordsByElf, "Elves")
-        .stack(wordsByEnt,"Ents")
-        .stack(wordsByHobbit,"Hobbits")
+        .stack(wordsByEnt, "Ents")
+        .stack(wordsByHobbit, "Hobbits")
         .stack(wordsByMen, "Men")
         .stack(wordsByNazgul, "Nazgul")
         .stack(wordsByOrc, "Orcs")
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .legend(dc.legend().x(650).y(0).itemHeight(15).gap(5))
-    
+
 }
 
 
-function show_race_data(ndx) {
-    var race_dim = ndx.dimension(dc.pluck('Race'));
-    var total_chars_per_race = race_dim.group().reduceSum(dc.pluck('Character'));
+//Pie chart data
 
+function show_race_data(ndx) {
+    var dim = ndx.dimension(dc.pluck('Race'));
+    var raceCharGroup = dim.group().reduce(
+        function(p, v) { // add
+            p[v.Character] = (p[v.Character] || 0) + 1;
+            return p;
+        },
+        function(p, v) { // remove
+            if (--p[v.Character] === 0)
+                delete p[v.Character];
+            return p;
+        },
+
+        dc.pieChart.valueAccessor(function(kv) {
+            return Object.keys(kv.value).length;
+        })
+    );
 
     dc.pieChart('#race-graph')
         .height(550)
+        .width(300)
         .radius(90)
         .transitionDuration(1500)
-        .dimension(race_dim)
-        .group(total_chars_per_race);
+        .dimension(dim)
+        .group(raceCharGroup);
 }

@@ -1,12 +1,4 @@
-[{
-  "Series": "The Lord of the Rings Series",
-  "RuntimeInMinutes": 558,
-  "BudgetInMillions": 281,
-  "BoxOfficeRevenueInMillions": 2917,
-  "AcademyAwardNominations": 30,
-  "AcademyAwardWins": 17,
-  "RottenTomatoesScore": 94
- },
+[
  {
   "Series": "The Lord of the Rings Series",
   "Name": "The Fellowship of the Ring",
@@ -36,15 +28,6 @@
   "AcademyAwardNominations": 11,
   "AcademyAwardWins": 11,
   "RottenTomatoesScore": 95
- },
- {
-  "Series": "The Hobbit Series",
-  "RuntimeInMinutes": 462,
-  "BudgetInMillions": 675,
-  "BoxOfficeRevenueInMillions": 2932,
-  "AcademyAwardNominations": 7,
-  "AcademyAwardWins": 1,
-  "RottenTomatoesScore": 66.33333333
  },
  {
   "Series": "The Hobbit Series",

@@ -7,17 +7,21 @@ function makeGraphs(error, nameData) {
 
     show_movie_stats(ndx);
     show_movie_revenue(ndx);
+    show_movie_budget(ndx);
+    show_academy_data(ndx);
 
     dc.renderAll();
 }
 
+
+// Rotten Tomato score for each film
 function show_movie_stats(ndx) {
-    var dim = ndx.dimension(dc.pluck('RottenTomatoesScore'));
-    var group = dim.group();
+    var dim = ndx.dimension(dc.pluck('Name'));
+    var group = dim.group().reduceSum(dc.pluck("RottenTomatoesScore"));
 
     dc.barChart('#movie-scores')
-        .width(1500)
-        .height(450)
+        .width(600)
+        .height(400)
         .margins({ top: 10, right: 50, bottom: 30, left: 50 })
         .dimension(dim)
         .group(group)
@@ -29,15 +33,58 @@ function show_movie_stats(ndx) {
 
 }
 
+
+//Pie Chart showing Profits for each movie
 function show_movie_revenue(ndx) {
-    var name_dim = ndx.dimension(dc.pluck("Name"));
-    var total_revenue = name_dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions"));
+    var name_dim = ndx.dimension(dc.pluck("Name")); // take the name
+    var total_revenue = name_dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
 
     dc.pieChart("#movie-profits")
-        .height(400)
-        .width(450)
+        .height(300)
+        .width(740)
         .radius(600)
+        .innerRadius(40)
         .transitionDuration(1000)
         .dimension(name_dim)
-        .group(total_revenue);
+        .group(total_revenue)
+        .legend(dc.legend())
+
+}
+
+
+function show_movie_budget(ndx) {
+    var name_dim = ndx.dimension(dc.pluck("Name")); //Take Name
+    var total_budget = name_dim.group().reduceSum(dc.pluck("BudgetInMillions")); //take the budget
+
+    dc.pieChart("#movie-budget")
+        .height(300)
+        .width(740)
+        .radius(600)
+        .innerRadius(40)
+        .transitionDuration(1000)
+        .dimension(name_dim)
+        .group(total_budget)
+        .legend(dc.legend())
+}
+
+
+//Chart for Academy Award wins.
+
+
+function show_academy_data(ndx) {
+    var dim = ndx.dimension(dc.pluck('Name'));
+    var group = dim.group().reduceSum(dc.pluck("AcademyAwardWins"));
+
+    dc.barChart('#academy-wins')
+        .width(600)
+        .height(400)
+        .margins({ top: 10, right: 50, bottom: 30, left: 50 })
+        .dimension(dim)
+        .group(group)
+        .transitionDuration(400)
+        .x(d3.scale.ordinal())
+        .xUnits(dc.units.ordinal)
+        .xAxisLabel("Review Score")
+        .yAxis().ticks(10)
+
 }

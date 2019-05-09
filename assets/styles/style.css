@@ -1,157 +1,166 @@
-   @import url('https://fonts.googleapis.com/css?family=Bilbo');
-body,
-html {
-    font-family: Bilbo, cursive ; 
+   @import url('https://fonts.googleapis.com/css?family=Merriweather');
+   body,
+   html {
+       font-family: Merriweather;
+   }
+
+   /* ---- Background imagery -------- */
+
+   .bg-image {
+       vertical-align: middle;
+       border-style: none;
+       width: 100vw;
+       position: fixed;
+       height: 100vh;
+       z-index: -999;
+       opacity: 0.7;
+   }
+
+   /* ------------ Navbar Styles */
+
+   .wrapper {
+       display: flex;
+       width: 100%;
+   }
+
+   #sidebar {
+       width: 247px;
+       position: fixed;
+       top: 0;
+       left: 0;
+       height: 100vh;
+       z-index: 5;
+       color: #fff;
+       transition: all 0.3s;
+       padding: 15px;
+   }
+
+   #sidebar.active {
+       margin-left: -250px;
+   }
+
+   .sidebar-header {
+       padding-top: 175px;
+       padding-bottom: 60px;
+       text-align: center;
+   }
+
+   .nav-card {
+       background-color: #707070;
+       text-align: left;
+       padding: 35px;
+       border-radius: 35px;
+   }
+
+   .fa-book {
+       padding-left: 75px
+   }
+
+   .fa-film {
+       padding-left: 51px;
+   }
+
+   .fa-list {
+       padding-left: 33px;
+   }
+
+   .info-div {
+       height: 75px;
+       width: 75px;
+       border-radius: 75px!important;
+       padding-top: 35px;
+       padding-left: 75px;
+   }
+
+
+   .info-img {
+       height: 75px;
+       width: 75px;
+       border-radius: 50px;
+
+
+   }
+
+   @media (max-width: 768px) {
+       #sidebar {
+           margin-left: -250px;
+       }
+       #sidebar.active {
+           margin-left: 0;
+       }
+   }
+
+   .list-unstyled {
+       text-decoration: none;
+   }
+
+   .active {
+       background-color: #B7A355;
+       padding: 2px;
+   }
+
+   .nav-anchor {
+       color: white;
+       text-decoration: none;
+       font-size: 20px;
+   }
+
+   /* -----------------    Main Content ------ */
+
+   #content {
+       width: calc(100% - 250px);
+       padding: 40px;
+       min-height: 100vh;
+       transition: all 0.3s;
+       position: absolute;
+       top: 0;
+       right: 0;
+   }
+
+   .data-card {
+       background: #707070;
+       margin-top: 65px;
+       padding: 15px 10px 25px 10px;
+
+   }
+
+   h5 {
+       padding-left: 20px;
+   }
+
+   p {
+       padding: 15px 8px 8px 20px;
+   }
+
+   /*-------------------------------------- Books information styling */
+
+   .data-header {
+       color: white;
+
+   }
+
+   #race-selector {
+       padding-left: 415px;
+       font-size: 18px;
+       display: inline;
+       text-align: right;
+   }
+
+   #charinfo {}
+
+
+
+   #raceinfo {}
+
+   #named-chart #race-graph {}
+
+   /*-------------------------------- Movie Data styling*/
+
+#movie-scores .axis .x .tick .text {
+    text-anchor: end !important;
+    transform: rotate(-45deg) !important;
 }
-/* ---- Background imagery -------- */
-
-.bg-image {
-    vertical-align: middle;
-    border-style: none;
-    width: 100vw;
-    position: fixed;
-    height: 100vh;
-    z-index: -999;
-    opacity: 0.7;
-}
-
-/* ------------ Navbar Styles */
-
-.wrapper {
-    display: flex;
-    width: 100%;
-}
-
-#sidebar {
-    width: 247px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    z-index: 5;
-    color: #fff;
-    transition: all 0.3s;
-    padding: 15px;
-}
-
-#sidebar.active {
-    margin-left: -250px;
-}
-
-.sidebar-header {
-    padding-top: 175px;
-    padding-bottom: 60px;
-    text-align: center;
-}
-
-.nav-card {
-    background-color: #707070;
-    text-align: left;
-    padding: 35px;
-    border-radius: 35px;
-}
-
-.fa-book {
-    padding-left: 75px
-}
-
-.fa-film {
-    padding-left: 51px;
-}
-
-.fa-list {
-    padding-left: 33px;
-}
-
-.info-div {
-    height: 75px;
-    width: 75px;
-    border-radius: 75px!important;
-    padding-top: 35px;
-    padding-left: 75px;
-}
 
 
-.info-img {
-    height: 75px;
-    width: 75px;
-    border-radius: 50px;
-
-
-}
-
-@media (max-width: 768px) {
-    #sidebar {
-        margin-left: -250px;
-    }
-    #sidebar.active {
-        margin-left: 0;
-    }
-}
-
-.list-unstyled {
-    text-decoration: none;
-}
-.active {
-    background-color: #B7A355;
-    padding: 2px;
-}
-
-.nav-anchor {
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-}
-
-/* -----------------    Main Content ------ */
-
-#content {
-    width: calc(100% - 250px);
-    padding: 40px;
-    min-height: 100vh;
-    transition: all 0.3s;
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-
-.data-card {
-    background: none;
-    margin-top: 65px;
-    padding: 15px 10px 25px 10px;
-    
-}
-
-/*-------------------------------------- Books information styling */
-.data-header {
-    color:white;
-    
-}
-
-#race-selector {
-    padding-left: 415px;
-    font-size: 18px;
-    display: inline;
-    text-align: right;
-}
-
-#charinfo {
-    
-}
-
-
-
-#raceinfo {
-    
-}
-
-.race-graph {
-    
-}
-
-/*-------------------------------- Movie Data styling*/
-
-
-
-
-/*----------------------------------- Char list styling*/
+   /*----------------------------------- Char list styling*/
+   

@@ -6,7 +6,7 @@ function makeTable(data, columns) {
     var table = d3.select("#char-list").append('table')
     var thead = table.append('thead')
     var tbody = table.append('tbody');
-    
+ /*   
     thead.append('tr')
         .selectAll('th')
         .data(columns).enter()
@@ -30,6 +30,6 @@ function makeTable(data, columns) {
             .text(function (d) {return d.value;});
             
     return table;
-    makeTable(data, ['Name', 'More Info', 'Race']);
+    makeTable(data, ['Name', 'More Info', 'Race']); */
 }
 
