@@ -41,8 +41,6 @@ in the associated characters.json
 
 #### To change
 1. Add a different method to create the table.
-2. Change the way the piechart shows for the movie revenue, for some reason the Two Towers is displaying nearly 5x its actual value.
-3. Figure out a way to display the top 15 Characters by Words spoken, rather than displaying all characters by the amount of times they speak.
 
 
 ## Deployment

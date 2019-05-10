@@ -13,13 +13,14 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.min.css" type="text/css" />
-    <link rel="stylesheet" href="../assets/styles/style.css" type="text/css" />
     <!-- Scripts for D3, Crossfilter and DC -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
     <script type="text/javascript" src="../assets/javaScript/scripts/movies.js"></script>
+    <link rel="stylesheet" href="../assets/styles/style.css" type="text/css" />
+
 </head>
 
 <body>
@@ -87,54 +88,53 @@
                             </div>
                             <div class="row">
                                 <div class="col-xs-12 col-md-6">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat velit, dolorum nostrum eveniet laborum rerum! Ex eos odio porro sit culpa rerum numquam, quos molestiae perferendis, hic beatae optio maxime quaerat
-                                        earum at reprehenderit molestias ipsam voluptate sunt? Voluptatibus voluptas ducimus deserunt perspiciatis, possimus eius autem illum fuga molestias, nemo error sit, cupiditate eum nam! Esse fugit et aut consectetur
-                                        temporibus vero quo ipsum cupiditate pariatur! Nobis voluptatum similique harum, fugit illo animi eius reiciendis nesciunt! At laudantium blanditiis optio ipsam dolor eveniet ad consequuntur consectetur ullam voluptas,
-                                        quo repellendus, consequatur quisquam impedit, dolorem voluptatem harum! Aut optio, quos dolorem.</p>
+                                    <p class="small">
+                                        We can see this data correlated here below:
+                                    </p>
+                                    <ul class="ordered">
+                                        <li class="ordered">Return of the King: Revenue:$1.120Bn / Budget: $94mil</li>
+                                        <li class="ordered">Unexpected Journey: Revenue: $1.021Bn / Budget: $200mil</li>
+                                        <li class="ordered">Desolation of Smaug: Revenue:$958.4mil / Budget: $217mil</li>
+                                        <li class="ordered">Battle of the Five Armies: Revenue: $956mil / Budget: $250mil</li>
+                                        <li class="ordered">The Two Towers: Revenue:$926mil / Budget: $94mil</li>
+                                        <li class="ordered">The Fellowship: Revenue: $871.5mil / Budget: $93mil</li>
+                                    </ul>
                                 </div>
                                 <div class="col-xs-12 col-md-6">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat velit, dolorum nostrum eveniet laborum rerum! Ex eos odio porro sit culpa rerum numquam, quos molestiae perferendis, hic beatae optio maxime quaerat
-                                        earum at reprehenderit molestias ipsam voluptate sunt? Voluptatibus voluptas ducimus deserunt perspiciatis, possimus eius autem illum fuga molestias, nemo error sit, cupiditate eum nam! Esse fugit et aut consectetur
-                                        temporibus vero quo ipsum cupiditate pariatur! Nobis voluptatum similique harum, fugit illo animi eius reiciendis nesciunt! At laudantium blanditiis optio ipsam dolor eveniet ad consequuntur consectetur ullam voluptas,
-                                        quo repellendus, consequatur quisquam impedit, dolorem voluptatem harum! Aut optio, quos dolorem.</p>
+                                    <p>We can discern from this data that a higher budget does not always equal a better performance in the Cinemas. The spread budget for the original trilogy is $187,000,000 making that franchise far more profitable as the
+                                        net profits head to $2,636.5Bn. Where as the Hobbit Trilogy budget comes in at $667mil so the net profit here is only $2,268.4Bn. What is surprising here is the fact in the original trilogy the creators had to literally
+                                        invent new technology to be able to present many thousands of individuals on screen who were not actually there, this groundbroke CGI for years to come, especially in scenes from The Two Towers and the siege of
+                                        Gondor in Return of the King. We could also safely believe that "Hype" was involved for the second trilogy, as seen in the movies reviews and academy wins.</p>
                                 </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="card data-card col-sm-12 content-center">
+                            <h3 class="data-header">Movie Scores and Awards <a href="#" id="charinfo"><i class="fas fa-info"></i></a></h3>
+
+                            <div class="row content-center">
+                                <!-- This graph will show interchangeable data from movies.json-->
+                                <!-- Trilogies, RT score, budget, AA wins/Noms -->
+                                <div class="col-xs-12 col-md-6" id="movie-scores"></div>
+                                <div class="col-xs-12 col-md-6" id="academy-wins"></div>
+                            </div>
+                            <div class="row">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="card data-card col-sm-12 content-center">
-                        <h3 class="data-header">Movie Scores and Awards <a href="#" id="charinfo"><i class="fas fa-info"></i></a></h3>
-
-                        <div class="row content-center">
-                            <!-- This graph will show interchangeable data from movies.json-->
-                            <!-- Trilogies, RT score, budget, AA wins/Noms -->
-                            <div class="col-xs-12 col-md-6" id="movie-scores"></div>
-                            <div class="col-xs-12 col-md-6" id="academy-wins"></div>
-
-                        </div>
-                        <div class="row">
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
         </div>
-    </div>
-
-
-
-
-    <!-- jQuery CDN - Slim -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <!-- Popper.JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
-    <!-- Bootstrap JS -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+        <!-- jQuery CDN - Slim -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <!-- Popper.JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+        <!-- Bootstrap JS -->
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
 
 </body>
 

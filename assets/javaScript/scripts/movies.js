@@ -21,7 +21,7 @@ function show_movie_stats(ndx) {
 
     dc.barChart('#movie-scores')
         .width(600)
-        .height(400)
+        .height(500)
         .margins({ top: 10, right: 50, bottom: 30, left: 50 })
         .dimension(dim)
         .group(group)
@@ -41,7 +41,7 @@ function show_movie_revenue(ndx) {
 
     dc.pieChart("#movie-profits")
         .height(300)
-        .width(740)
+        .width(720)
         .radius(600)
         .innerRadius(40)
         .transitionDuration(1000)
@@ -58,7 +58,7 @@ function show_movie_budget(ndx) {
 
     dc.pieChart("#movie-budget")
         .height(300)
-        .width(740)
+        .width(720)
         .radius(600)
         .innerRadius(40)
         .transitionDuration(1000)
@@ -77,14 +77,14 @@ function show_academy_data(ndx) {
 
     dc.barChart('#academy-wins')
         .width(600)
-        .height(400)
+        .height(500)
         .margins({ top: 10, right: 50, bottom: 30, left: 50 })
         .dimension(dim)
         .group(group)
         .transitionDuration(400)
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
-        .xAxisLabel("Review Score")
+        .xAxisLabel("Oscar Wins")
         .yAxis().ticks(10)
 
 }
