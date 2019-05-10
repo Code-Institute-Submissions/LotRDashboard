@@ -154,11 +154,19 @@ p {
 
 #named-chart #race-graph {}
 
+#wordsByChar g.axis.x text {
+    transform: rotate(-45deg) translate(-30px);
+    text-anchor: end;
+}
+
 /*-------------------------------- Movie Data styling*/
 
-#movie-scores .axis .x .tick text {
-    text-anchor: end !important;
-    transform: rotate(-45deg) !important;
+#movie-scores g.axis.x text {
+    transform: rotate(-45deg) translate(-60px, 0px);
+}
+
+#academy-wins g.axis.x text {
+    transform: rotate(-45deg) translate(-60px, 0px);
 }
 
 /*----------------------------------- Char list styling*/

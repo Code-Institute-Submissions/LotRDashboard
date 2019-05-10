@@ -9,8 +9,18 @@ function makeGraphs(error, nameData) {
     show_movie_revenue(ndx);
     show_movie_budget(ndx);
     show_academy_data(ndx);
-
+    show_trilogy_selector(ndx);
     dc.renderAll();
+}
+
+
+function show_trilogy_selector(ndx) {
+    dim = ndx.dimension(dc.pluck("Series"));
+    group = dim.group();
+
+    dc.selectMenu("#trilogy-selector")
+        .dimension(dim)
+        .group(group);
 }
 
 
@@ -22,7 +32,7 @@ function show_movie_stats(ndx) {
     dc.barChart('#movie-scores')
         .width(600)
         .height(500)
-        .margins({ top: 10, right: 50, bottom: 30, left: 50 })
+        .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
         .group(group)
         .transitionDuration(400)
@@ -78,7 +88,7 @@ function show_academy_data(ndx) {
     dc.barChart('#academy-wins')
         .width(600)
         .height(500)
-        .margins({ top: 10, right: 50, bottom: 30, left: 50 })
+        .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
         .group(group)
         .transitionDuration(400)

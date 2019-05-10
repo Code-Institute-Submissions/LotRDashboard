@@ -9,6 +9,7 @@ function makeGraphs(error, nameData) {
     show_name_data(ndx);
     show_book_data(ndx);
     //show_race_data(ndx);
+    wordsByChar(ndx);
     dc.renderAll();
 }
 
@@ -144,6 +145,25 @@ function show_book_data(ndx) {
         .legend(dc.legend().x(650).y(0).itemHeight(15).gap(5))
 
 }
+//Words by characters here
+
+function wordsByChar(ndx) {
+    var dim = ndx.dimension(dc.pluck('Character'));
+    var group = dim.group();
+
+    dc.barChart('#wordsByChar')
+        .width(1600)
+        .height(350)
+        .margins({ top: 10, right: 60, bottom: 100, left: 60 })
+        .dimension(dim)
+        .group(group)
+        .transitionDuration(500)
+        .x(d3.scale.ordinal())
+        .xUnits(dc.units.ordinal)
+        .xAxisLabel("Number of times a character has spoken")
+        .yAxis().ticks(25);
+}
+
 
 
 //Pie chart data

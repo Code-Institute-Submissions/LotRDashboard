@@ -39,6 +39,10 @@ and feels better, being as responsive as possible.
 The testing for the Table Creation has been trialing and erroring different table building techniques, the first technique wrote a table with "Object, object, object..."etc. for each instance of a character
 in the associated characters.json
 
+#### Bugs witin Testing
+So during the course of my deployment I was trying to make the page a bit scalable however these graphs dont change without extended math looping and I'm not currently sure how to implement these but I am aware that at lower screen sizes
+that my pages dont load the graphs and the navbar correctly, to ensure this in the future i will try to implement this after it has been submitted for grading.
+
 #### To change
 1. Add a different method to create the table.
 
