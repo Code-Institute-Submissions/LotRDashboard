@@ -10,11 +10,14 @@ function makeGraphs(error, nameData) {
     show_movie_budget(ndx);
     show_academy_data(ndx);
     show_trilogy_selector(ndx);
+    
     dc.renderAll();
 }
 
 
-function show_trilogy_selector(ndx) {
+
+
+function show_trilogy_selector(ndx) { //selector for the 2 trilogies
     dim = ndx.dimension(dc.pluck("Series"));
     group = dim.group();
 
@@ -22,6 +25,8 @@ function show_trilogy_selector(ndx) {
         .dimension(dim)
         .group(group);
 }
+
+
 
 
 // Rotten Tomato score for each film
@@ -40,11 +45,12 @@ function show_movie_stats(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Review Score")
         .yAxis().ticks(10);
+        
 
 }
 
 
-//Pie Chart showing Profits for each movie THIS NEEDS CHANGING
+//Bar Chart for Revenue
 function show_movie_revenue(ndx) {
     var dim = ndx.dimension(dc.pluck("Name")); // take the name
     var total_revenue = dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
@@ -63,7 +69,7 @@ function show_movie_revenue(ndx) {
 
 }
 
-// THis needs changing to BAR CHART
+//Bar chart for Budget
 function show_movie_budget(ndx) {
     var dim = ndx.dimension(dc.pluck("Name")); //Take Name
     var total_budget = dim.group().reduceSum(dc.pluck("BudgetInMillions")); //take the budget
@@ -100,5 +106,4 @@ function show_academy_data(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Oscar Wins")
         .yAxis().ticks(10);
-
 }

@@ -25,6 +25,8 @@ function show_race_selector(ndx) {
         .group(group);
 }
 
+//Global Colors for Race grouping??
+
 
 //Display graph showing the number of times a particular race has a speaking part (Not including the words spoken)
 function show_name_data(ndx) {
@@ -42,9 +44,9 @@ function show_name_data(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Number of times a Race has spoken")
         .renderHorizontalGridLines(true)
-
         .elasticY(true);
 }
+
 
 //For the purposes of data display, FILM has been used instead of Chapter, this will help show correlation
 // This is to show a deep display of how a stacked chart would show the different races.
@@ -146,9 +148,9 @@ function show_book_data(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Total number of Words Spoken")
         .legend(dc.legend().x(650).y(0).itemHeight(15).gap(5))
+        .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
+            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
         .renderHorizontalGridLines(true)
-
-
 }
 //Words by characters here
 
@@ -190,8 +192,8 @@ function show_race_data(ndx) {
         },
         function() { // init
             return {};
-        }); //The code for the above reduce was assisted through stack overflow.
-
+        }); //The code for the above reduce was assisted with through stack overflow.
+    //by Gordon Woodhull
     dc.pieChart('#race-graph')
         .height(350)
         .width(600)
