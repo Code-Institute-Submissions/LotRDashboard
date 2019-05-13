@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
-body,
-html {
+body {
     font-family: Merriweather;
+    color: white;
 }
 
 /* ---- Background imagery -------- */
@@ -130,6 +130,11 @@ h5 {
 
 p {
     padding: 15px 8px 8px 20px;
+    color: wheat;
+}
+
+g text {
+    color: wheat;
 }
 
 /*-------------------------------------- Books information styling */
@@ -155,11 +160,19 @@ p {
 #named-chart #race-graph {}
 
 #wordsByChar g.axis.x text {
-    transform: rotate(-45deg) translate(-30px);
+    transform: rotate(-45deg) translate(-40px, 0px);
     text-anchor: end;
 }
 
 /*-------------------------------- Movie Data styling*/
+
+#movie-profits g.axis.x text {
+    transform: rotate(-45deg) translate(-60px, 0px);
+}
+
+#movie-budget g.axis.x text {
+    transform: rotate(-45deg) translate(-60px, 0px);
+}
 
 #movie-scores g.axis.x text {
     transform: rotate(-45deg) translate(-60px, 0px);

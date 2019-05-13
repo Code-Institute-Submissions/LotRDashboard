@@ -30,7 +30,7 @@ function show_movie_stats(ndx) {
     var group = dim.group().reduceSum(dc.pluck("RottenTomatoesScore"));
 
     dc.barChart('#movie-scores')
-        .width(600)
+        .width(700)
         .height(500)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
@@ -39,42 +39,46 @@ function show_movie_stats(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Review Score")
-        .yAxis().ticks(10)
+        .yAxis().ticks(10);
 
 }
 
 
-//Pie Chart showing Profits for each movie
+//Pie Chart showing Profits for each movie THIS NEEDS CHANGING
 function show_movie_revenue(ndx) {
-    var name_dim = ndx.dimension(dc.pluck("Name")); // take the name
-    var total_revenue = name_dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
+    var dim = ndx.dimension(dc.pluck("Name")); // take the name
+    var total_revenue = dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
 
-    dc.pieChart("#movie-profits")
+    dc.barChart("#movie-profits")
         .height(300)
         .width(720)
-        .radius(600)
-        .innerRadius(40)
+        .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
-        .dimension(name_dim)
+        .dimension(dim)
         .group(total_revenue)
-        .legend(dc.legend())
+        .x(d3.scale.ordinal())
+        .xUnits(dc.units.ordinal)
+        .xAxisLabel("Revenue in Millions")
+        .yAxis().ticks(10);
 
 }
 
-
+// THis needs changing to BAR CHART
 function show_movie_budget(ndx) {
-    var name_dim = ndx.dimension(dc.pluck("Name")); //Take Name
-    var total_budget = name_dim.group().reduceSum(dc.pluck("BudgetInMillions")); //take the budget
+    var dim = ndx.dimension(dc.pluck("Name")); //Take Name
+    var total_budget = dim.group().reduceSum(dc.pluck("BudgetInMillions")); //take the budget
 
-    dc.pieChart("#movie-budget")
+    dc.barChart("#movie-budget")
         .height(300)
         .width(720)
-        .radius(600)
-        .innerRadius(40)
+        .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
-        .dimension(name_dim)
+        .dimension(dim)
         .group(total_budget)
-        .legend(dc.legend())
+        .x(d3.scale.ordinal())
+        .xUnits(dc.units.ordinal)
+        .xAxisLabel("Budget in Millions")
+        .yAxis().ticks(10);
 }
 
 
@@ -95,6 +99,6 @@ function show_academy_data(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Oscar Wins")
-        .yAxis().ticks(10)
+        .yAxis().ticks(10);
 
 }

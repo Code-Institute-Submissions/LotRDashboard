@@ -8,11 +8,11 @@ function makeGraphs(error, nameData) {
     show_race_selector(ndx);
     show_name_data(ndx);
     show_book_data(ndx);
-    //show_race_data(ndx);
+    show_race_data(ndx);
     wordsByChar(ndx);
     dc.renderAll();
 }
-
+// color accessing
 
 
 //selector tool for defining races
@@ -34,14 +34,16 @@ function show_name_data(ndx) {
     dc.barChart('#character-graph')
         .width(700)
         .height(350)
-        .margins({ top: 10, right: 60, bottom: 30, left: 60 })
+        .margins({ top: 10, right: 60, bottom: 50, left: 60 })
         .dimension(dim)
         .group(group)
         .transitionDuration(500)
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Number of times a Race has spoken")
-        .yAxis().ticks(25);
+        .renderHorizontalGridLines(true)
+
+        .elasticY(true);
 }
 
 //For the purposes of data display, FILM has been used instead of Chapter, this will help show correlation
@@ -128,7 +130,7 @@ function show_book_data(ndx) {
     stackedChart
         .width(715)
         .height(350)
-        .margins({ top: 10, right: 70, bottom: 30, left: 50 })
+        .margins({ top: 10, right: 70, bottom: 50, left: 50 })
         .dimension(dim)
         .group(group)
         .stack(wordsByAinur, "Ainur")
@@ -142,7 +144,10 @@ function show_book_data(ndx) {
         .stack(wordsByOrc, "Orcs")
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
+        .xAxisLabel("Total number of Words Spoken")
         .legend(dc.legend().x(650).y(0).itemHeight(15).gap(5))
+        .renderHorizontalGridLines(true)
+
 
 }
 //Words by characters here
@@ -161,7 +166,10 @@ function wordsByChar(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Number of times a character has spoken")
-        .yAxis().ticks(25);
+        .renderHorizontalGridLines(true)
+        .elasticX(true)
+        .elasticY(true);
+
 }
 
 
@@ -180,17 +188,20 @@ function show_race_data(ndx) {
                 delete p[v.Character];
             return p;
         },
-
-        dc.pieChart.valueAccessor(function(kv) {
-            return Object.keys(kv.value).length;
-        })
-    );
+        function() { // init
+            return {};
+        }); //The code for the above reduce was assisted through stack overflow.
 
     dc.pieChart('#race-graph')
-        .height(550)
-        .width(300)
-        .radius(90)
+        .height(350)
+        .width(600)
+        .radius(250)
+        .innerRadius(40)
+        .valueAccessor(function(kv) {
+            return Object.keys(kv.value).length;
+        })
         .transitionDuration(1500)
         .dimension(dim)
-        .group(raceCharGroup);
+        .group(raceCharGroup)
+        .legend(dc.legend())
 }

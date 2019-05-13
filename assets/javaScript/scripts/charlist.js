@@ -2,34 +2,40 @@ queue()
     .defer(d3.json, "../assets/javaScript/data/characters.json")
     .await(makeTable);
     
-function makeTable(data, columns) {
-    var table = d3.select("#char-list").append('table')
-    var thead = table.append('thead')
-    var tbody = table.append('tbody');
- /*   
-    thead.append('tr')
-        .selectAll('th')
-        .data(columns).enter()
-        .append('th')
-            .text(function (column) { return column; });
+function makeTable(){
+    var characters = myCharacters.length;
+    
+    if(characters > 0){
+        var table = document.createElement("table");
+        table.style.width = "80%";
+        table.setAttribute("border", "1");
+        table.setAttribute("cellspacing", "1");
+        table.setAttribute("cellpadding", "5");
         
-    var rows = tbody.selectAll('tr')
-        .data(data)
-        .enter()
-        .append('tr');
+        var col = [];
+        for (var i = 0; i < characters; i++){
+            for (var key in characters[i]){
+                if (col.indexOf(key) === -1){
+                    col.push(key);
+                }
+            }
+        }
         
-    var cells = rows.selectAll('td')
-        .data(function (row){
-            return columns.map(function (column){
-                return {column: column, value:row[column]};
-            });
-        })
+        var tHead = document.createElement("thead");
         
-        .enter()
-        .append('td')
-            .text(function (d) {return d.value;});
-            
-    return table;
-    makeTable(data, ['Name', 'More Info', 'Race']); */
+        var hRow = document.createElement("tr");
+        
+        for (var i = 0; i < col.length; i++){
+            var th = document.createElement("th");
+            th.innerHTML = col[i];
+            hRow.appendChild(th);
+        }
+        tHead.appendChild(hRow);
+        table.appendChild(tHead);
+        
+        var divContainer = document.getElementById("#char-list");
+        divContainer.innerHTML = "";
+        divContainer.appendChild(table);
+        
+    }
 }
-
