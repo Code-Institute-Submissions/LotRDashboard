@@ -35,8 +35,8 @@ function show_movie_stats(ndx) {
     var group = dim.group().reduceSum(dc.pluck("RottenTomatoesScore"));
 
     dc.barChart('#movie-scores')
-        .width(700)
-        .height(500)
+        .width(window.innerWidth - 45% window)
+        .height(window.innerHeight - 300)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
         .group(group)
@@ -56,8 +56,8 @@ function show_movie_revenue(ndx) {
     var total_revenue = dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
 
     dc.barChart("#movie-profits")
-        .height(300)
-        .width(720)
+        .height(window.innerHeight - 300)
+        .width(window.innerWidth - 45% window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
         .dimension(dim)
@@ -75,8 +75,8 @@ function show_movie_budget(ndx) {
     var total_budget = dim.group().reduceSum(dc.pluck("BudgetInMillions")); //take the budget
 
     dc.barChart("#movie-budget")
-        .height(300)
-        .width(720)
+        .height(window.innerHeight - 300)
+        .width(window.innerWidth - 45% window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
         .dimension(dim)
@@ -96,8 +96,8 @@ function show_academy_data(ndx) {
     var group = dim.group().reduceSum(dc.pluck("AcademyAwardWins"));
 
     dc.barChart('#academy-wins')
-        .width(600)
-        .height(500)
+        .width(window.innerWidth - 45% window)
+        .height(window.innerHeight - 300)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
         .group(group)

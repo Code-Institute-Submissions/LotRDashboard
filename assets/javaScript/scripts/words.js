@@ -34,8 +34,8 @@ function show_name_data(ndx) {
     var group = dim.group();
 
     dc.barChart('#character-graph')
-        .width(700)
-        .height(350)
+        .width(window.innerWidth - 45% window)
+        .height(window.innerHeight - 300)
         .margins({ top: 10, right: 60, bottom: 50, left: 60 })
         .dimension(dim)
         .group(group)
@@ -44,6 +44,7 @@ function show_name_data(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Number of times a Race has spoken")
         .renderHorizontalGridLines(true)
+        .ordinalColors(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"])
         .elasticY(true);
 }
 
@@ -130,9 +131,9 @@ function show_book_data(ndx) {
 
     var stackedChart = dc.barChart("#book");
     stackedChart
-        .width(715)
-        .height(350)
-        .margins({ top: 10, right: 70, bottom: 50, left: 50 })
+        .width(window.innerWidth - 45 % window)
+        .height(window.innerHeight - 300)
+        .margins({ top: 10, right: 110, bottom: 50, left: 50 })
         .dimension(dim)
         .group(group)
         .stack(wordsByAinur, "Ainur")
@@ -147,7 +148,8 @@ function show_book_data(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Total number of Words Spoken")
-        .legend(dc.legend().x(650).y(0).itemHeight(15).gap(5))
+        .useRightYAxis(true)
+        .legend(dc.legend().x(5).y(0).itemHeight(15).gap(5))
         .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
             .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
         .renderHorizontalGridLines(true)
@@ -159,8 +161,8 @@ function wordsByChar(ndx) {
     var group = dim.group();
 
     dc.barChart('#wordsByChar')
-        .width(1600)
-        .height(350)
+        .width(window.innerWidth - 330)
+        .height(window.innerHeight - 300)
         .margins({ top: 10, right: 60, bottom: 100, left: 60 })
         .dimension(dim)
         .group(group)
@@ -168,6 +170,8 @@ function wordsByChar(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Number of times a character has spoken")
+        .colors(d3.scale.ordinal().domain([1, 2, 3, 4, 5, 6, 7, 8, 9])
+            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
         .renderHorizontalGridLines(true)
         .elasticX(true)
         .elasticY(true);
@@ -205,5 +209,7 @@ function show_race_data(ndx) {
         .transitionDuration(1500)
         .dimension(dim)
         .group(raceCharGroup)
-        .legend(dc.legend())
+        .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
+            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
+        .legend(dc.legend().x(20).y(0).itemHeight(12).gap(5))
 }
