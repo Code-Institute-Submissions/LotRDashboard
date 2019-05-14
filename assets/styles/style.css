@@ -152,14 +152,6 @@ g text {
     text-align: right;
 }
 
-#charinfo {}
-
-
-
-#raceinfo {}
-
-#named-chart #race-graph {}
-
 #wordsByChar g.axis.x text {
     transform: rotate(-45deg) translate(-40px, 0px);
     text-anchor: end;
