@@ -10,7 +10,7 @@ function makeGraphs(error, nameData) {
     show_movie_budget(ndx);
     show_academy_data(ndx);
     show_trilogy_selector(ndx);
-    
+
     dc.renderAll();
 }
 
@@ -35,8 +35,8 @@ function show_movie_stats(ndx) {
     var group = dim.group().reduceSum(dc.pluck("RottenTomatoesScore"));
 
     dc.barChart('#movie-scores')
-        .width(window.innerWidth - 45% window)
         .height(window.innerHeight - 300)
+        .width(window.innerWidth - 80 % window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
         .group(group)
@@ -45,7 +45,7 @@ function show_movie_stats(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Review Score")
         .yAxis().ticks(10);
-        
+
 
 }
 
@@ -57,7 +57,7 @@ function show_movie_revenue(ndx) {
 
     dc.barChart("#movie-profits")
         .height(window.innerHeight - 300)
-        .width(window.innerWidth - 45% window)
+        .width(window.innerWidth - 30 % window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
         .dimension(dim)
@@ -76,7 +76,7 @@ function show_movie_budget(ndx) {
 
     dc.barChart("#movie-budget")
         .height(window.innerHeight - 300)
-        .width(window.innerWidth - 45% window)
+        .width(window.innerWidth - 30 % window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
         .dimension(dim)
@@ -96,7 +96,7 @@ function show_academy_data(ndx) {
     var group = dim.group().reduceSum(dc.pluck("AcademyAwardWins"));
 
     dc.barChart('#academy-wins')
-        .width(window.innerWidth - 45% window)
+        .width(window.innerWidth - 80 % window)
         .height(window.innerHeight - 300)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .dimension(dim)
@@ -105,5 +105,7 @@ function show_academy_data(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Oscar Wins")
+        .colors(d3.scale.ordinal().domain([0, 6])
+            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E"]))
         .yAxis().ticks(10);
 }

@@ -12,9 +12,6 @@ function makeGraphs(error, nameData) {
     wordsByChar(ndx);
     dc.renderAll();
 }
-// color accessing
-
-
 //selector tool for defining races
 function show_race_selector(ndx) {
     dim = ndx.dimension(dc.pluck("Race"));
@@ -61,7 +58,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByDead = dim.group().reduceSum(function(d) {
@@ -69,7 +66,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByDwarf = dim.group().reduceSum(function(d) {
@@ -77,7 +74,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByElf = dim.group().reduceSum(function(d) {
@@ -85,7 +82,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByEnt = dim.group().reduceSum(function(d) {
@@ -93,7 +90,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByHobbit = dim.group().reduceSum(function(d) {
@@ -101,7 +98,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByMen = dim.group().reduceSum(function(d) {
@@ -109,7 +106,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByNazgul = dim.group().reduceSum(function(d) {
@@ -117,7 +114,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
     var wordsByOrc = dim.group().reduceSum(function(d) {
@@ -125,7 +122,7 @@ function show_book_data(ndx) {
             return d.Words;
         }
         else {
-            return 0;
+            return null;
         }
     });
 
@@ -170,16 +167,13 @@ function wordsByChar(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Number of times a character has spoken")
-        .colors(d3.scale.ordinal().domain([1, 2, 3, 4, 5, 6, 7, 8, 9])
+        .colors(d3.scale.ordinal().domain([0, 10])
             .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
         .renderHorizontalGridLines(true)
         .elasticX(true)
         .elasticY(true);
 
 }
-
-
-
 //Pie chart data
 
 function show_race_data(ndx) {
@@ -210,6 +204,6 @@ function show_race_data(ndx) {
         .dimension(dim)
         .group(raceCharGroup)
         .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
-            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
+            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E"]))
         .legend(dc.legend().x(20).y(0).itemHeight(12).gap(5))
 }

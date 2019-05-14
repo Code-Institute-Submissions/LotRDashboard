@@ -53,15 +53,16 @@ body {
 }
 
 .fa-book {
-    padding-left: 75px
+    padding-left: 57px;
+
 }
 
 .fa-film {
-    padding-left: 51px;
+    padding-left: 57px;
 }
 
 .fa-list {
-    padding-left: 33px;
+    padding-left: 10px;
 }
 
 .info-div {
@@ -182,4 +183,13 @@ g text {
     transform: rotate(-45deg) translate(-60px, 0px);
 }
 
+ul {
+    color: wheat!important;
+}
+
 /*----------------------------------- Char list styling*/
+td, th {
+  padding: 1px 4px;
+  border: 1px solid white;
+  color: wheat;
+}
