@@ -7,19 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>LoTR Data<span class="sr-only">Lord of The Rings Data</span></title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
     <link rel="stylesheet" href="../assets/styles/style.css" type="text/css" />
-    <!-- Scripts for D3, Crossfilter and DC -->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
-    <script type="text/javascript" src="../assets/javaScript/scripts/words.js"></script>
 </head>
 
 <body>
@@ -29,7 +20,6 @@
         </jumbotron>
     </div>
     <header>
-        <!--- Side bar navigation --->
         <div class="wrapper">
             <!-- Sidebar -->
             <nav id="sidebar">
@@ -53,7 +43,12 @@
 
                 </div>
                 <div class="info-div">
-                    <a href="">
+                    <div class="modal" id="copyright">
+                        <h6>About</h6>
+                        <p>I really hope that this website has brought you some interesting facts and figures about the makeup of the LOTR universe, or for stats guys to prove which film is the best (Return of the King obviously)</p>
+                        <p class="small"><i class="fa fa-copyright"></i>Copyright Daniel Ellis 2019</p>
+                    </div>
+                    <a href="#copyright" rel="modal:open">
                     <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"></img>
                 </a>
                 </div>
@@ -72,31 +67,30 @@
                     </div>
                 </nav>
             </div>
-
+            <div class="modal" id="charinfo1">
+                <h4>Remunerations</h4>
+                <p>The chart on above and to the left shows how many times each race has spoken throughout the each book in the LOTR series. This has been categorised further with the chart on the right to correlate the data with how many times in total
+                    that a particular race has spoken. We can discern from this data who the predominant characters are within the series by who speaks the most. For Example, the race of Men have more words spoken in The Two Towers because of the interactions
+                    within chapters between predominantly human settlements, such as Helms Deep or the Country of Rohan. We can also tell that there must have been some speeches to rouse the defenders of Helms Deep by the King and from Aragorn to help
+                    to motivate the defenders against such a large army of Uruks. The interactions between Hobbits is the largest number within the dataset, for both words and for number of times speaking. We can tell from the data at which point in the
+                    story these characters must be as the chapters with Frodo, Sam and Gollum contain a lot of interaction about the struggle to carry the ring and the burden that Gollum knows Frodo must carry, whilst trying to subliminaly turn him against
+                    Sam Merry and Pippin are also predominant characters within the series and have major roles to play within the 2nd and 3rd books. Merry staying with the Rohirrim and helping engage the siege of Gondor, whilst Pippin in service to Denethor
+                    has a big part to pay stewarding and pleasing his new lord.</p>
+            </div>
             <!----- Data sets HERE ---->
             <div class="container-fluid">
                 <div class="row">
                     <div class="card data-card col-sm-12">
-                        <h3 class="data-header">Speaking Information <a href="#" id="charinfo"><i class="fas fa-info"></i></a> <span id="race-selector"></span></h3>
+                        <h3 class="data-header">Speaking Information <a href="#charinfo1" rel="modal:open"><i class="fas fa-info"></i></a> <span id="race-selector"></span></h3>
                         <div class="row">
                             <!-- This stacked chart will show data from the races books correlating to race -->
                             <div class="col-xs-12 col-md-12 col-lg-6" id="book"></div>
                             <div class="col-xs-12 col-md-12 col-lg-6" id="character-graph"></div>
                         </div>
                         <div class="row">
-                            <p>
-                                The chart on above and to the left shows how many times each race has spoken throughout the each book in the LOTR series. This has been categorised further with the chart on the right to correlate the data with how many times in total that a particular
-                                race has spoken. We can discern from this data who the predominant characters are within the series by who speaks the most. For Example, the race of Men have more words spoken in The Two Towers because of the interactions
-                                within chapters between predominantly human settlements, such as Helms Deep or the Country of Rohan. We can also tell that there must have been some speeches to rouse the defenders of Helms Deep by the King and from Aragorn
-                                to help to motivate the defenders against such a large army of Uruks.
-                            </p>
-                            <p>The interactions between Hobbits is the largest number within the dataset, for both words and for number of times speaking. We can tell from the data at which point in the story these characters must be as the chapters with
-                                Frodo, Sam and Gollum contain a lot of interaction about the struggle to carry the ring and the burden that Gollum knows Frodo must carry, whilst trying to subliminaly turn him against Sam Merry and Pippin are also predominant
-                                characters within the series and have major roles to play within the 2nd and 3rd books. Merry staying with the Rohirrim and helping engage the siege of Gondor, whilst Pippin in service to Denethor has a big part to pay
-                                stewarding and pleasing his new lord.
-                            </p>
-                            <p class="small">We can also break this down into individual characters</p>
-
+                            <div class="col-md-4">
+                                <p class="small">We can also break this down into individual characters</p>
+                            </div>
                         </div>
                         <div class="row">
                             <div id="wordsByChar"></div>
@@ -104,11 +98,20 @@
                     </div>
                 </div>
             </div>
+            <div class="modal" id="raceinfo1">
+                <h4>More Ruminations</h4>
+                <p>The data here shows the representation of each race according to "Named" characters within the books. As such the Dwarves for this trilogy are vastly under-represented due to Gimli being the only Character to have a speaking part. This
+                    is also true with the race of the Dead and the races of Orcs and Ents. Due to few characters speaking within that particular race. This means that the data will be a little unrepresentative of unnamed characters within the universe
+                </p>
+                <p>Although the data here only mentions characters who have speaking parts, we can safely assume that other characters such as the other ring wraiths or the dwarves who accompanied Gimli to The Council of Elrond do exist here as well, however
+                    are not added into our data set. This shows a litle un-representative majority of Men, but as the race of Men has far more characters, this is why they appear to be the largest data set</p>
+
+            </div>
             <!-- This will show the % and number of speaking characters by race in the books -->
             <div class="container-fluid">
                 <div class="row">
                     <div class="card data-card col-sm-12">
-                        <h3 class="data-header">Characters by Race <a href="#" id="raceinfo"><i class="fas fa-info"></i></a></h3>
+                        <h3 class="data-header">Characters by Race <a href="#raceinfo1" rel="modal:open"><i class="fas fa-info"></i></a></h3>
                         <div class="row">
                             <div class="col-xs-12">
                                 <h5>Representation</h5>
@@ -116,12 +119,6 @@
                             <div class="row">
                                 <div class="col-xs-12 col-md-6" id="race-graph"></div>
                                 <div class="col-xs-12 col-md-6">
-                                    <p>The data here shows the representation of each race according to "Named" characters within the books. As such the Dwarves for this trilogy are vastly under-represented due to Gimli being the only Character to have a
-                                        speaking part. This is also true with the race of the Dead and the races of Orcs and Ents. Due to few characters speaking within that particular race. This means that the data will be a little unrepresentative of
-                                        unnamed characters within the universe
-                                    </p>
-                                    <p>Although the data here only mentions characters who have speaking parts, we can safely assume that other characters such as the other ring wraiths or the dwarves who accompanied Gimli to The Council of Elrond do exist
-                                        here as well, however are not added into our data set. This shows a litle un-representative majority of Men, but as the race of Men has far more characters, this is why they appear to be the largest data set</p>
                                 </div>
                             </div>
                         </div>
@@ -140,8 +137,14 @@
     <!-- Popper.JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
     <!-- Bootstrap JS -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
-
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!-- Scripts for D3, Crossfilter and DC -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <script type="text/javascript" src="../assets/javaScript/scripts/words.js"></script>
 </body>
 
 </html>

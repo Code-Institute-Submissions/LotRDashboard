@@ -44,6 +44,8 @@ function show_movie_stats(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Review Score")
+        .colors(d3.scale.ordinal().domain([0, 6])
+            .range(["#F2E96B"]))
         .yAxis().ticks(10);
 
 
@@ -56,7 +58,7 @@ function show_movie_revenue(ndx) {
     var total_revenue = dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
 
     dc.barChart("#movie-profits")
-        .height(window.innerHeight - 600)
+        .height(window.innerHeight - 250)
         .width(window.innerWidth - 65 % window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
@@ -65,6 +67,8 @@ function show_movie_revenue(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Revenue in Millions")
+        .colors(d3.scale.ordinal().domain([0, 6])
+            .range(["#F2E96B"]))
         .yAxis().ticks(10);
 
 }
@@ -75,7 +79,7 @@ function show_movie_budget(ndx) {
     var total_budget = dim.group().reduceSum(dc.pluck("BudgetInMillions")); //take the budget
 
     dc.barChart("#movie-budget")
-        .height(window.innerHeight - 600)
+        .height(window.innerHeight - 250)
         .width(window.innerWidth - 65 % window)
         .margins({ top: 10, right: 50, bottom: 100, left: 70 })
         .transitionDuration(1000)
@@ -84,6 +88,8 @@ function show_movie_budget(ndx) {
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Budget in Millions")
+        .colors(d3.scale.ordinal().domain([0, 6])
+            .range(["#F2E96B"]))
         .yAxis().ticks(10);
 }
 
@@ -106,6 +112,6 @@ function show_academy_data(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Oscar Wins")
         .colors(d3.scale.ordinal().domain([0, 6])
-            .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E"]))
+            .range(["#F2E96B"]))
         .yAxis().ticks(10);
 }

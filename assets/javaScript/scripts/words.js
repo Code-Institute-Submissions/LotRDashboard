@@ -10,13 +10,14 @@ function makeGraphs(error, nameData) {
     show_book_data(ndx);
     show_race_data(ndx);
     wordsByChar(ndx);
+    showTotalWords(ndx);
     dc.renderAll();
 }
 //selector tool for defining races
 function show_race_selector(ndx) {
     dim = ndx.dimension(dc.pluck("Race"));
     group = dim.group();
-
+console.log(dim)
     dc.selectMenu("#race-selector")
         .dimension(dim)
         .group(group);
@@ -146,10 +147,23 @@ function show_book_data(ndx) {
         .xUnits(dc.units.ordinal)
         .xAxisLabel("Total number of Words Spoken")
         .useRightYAxis(true)
-        .legend(dc.legend().x(5).y(0).itemHeight(15).gap(5))
         .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
             .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D"]))
         .renderHorizontalGridLines(true)
+        
+   /* var stackedChart = dc.barChart("#book");
+    stackedChart
+        .dimension(dim)
+        .group(group)
+        .stack(wordsByAinur,"Ainur")
+        .stack(wordsByDead,"Dead")
+        .stack(wordsByDwarf,"Dwarf")
+        .stack(wordsByElf,"Ainur")
+        .stack(wordsByEnt,"Ainur")
+        .stack(wordsByMen,"Ainur")
+        .stack(wordsByHobbit,"Ainur")
+        .stack(wordsByNazgul,"Ainur")
+        .stack(wordsByOrc,"Ainur")*/
 }
 //Words by characters here
 
@@ -206,4 +220,17 @@ function show_race_data(ndx) {
         .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
             .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E"]))
         .legend(dc.legend().x(20).y(0).itemHeight(12).gap(5))
+}
+
+
+function showTotalWords(ndx){
+    var totalWords = ndx.groupAll(dc.pluck("Words"));
+    dc.numberDisplay("#total-words")
+        .formatNumber(d3.format(""))
+        .valueAccessor(function(d){
+            if (d.count == 0){
+                return 0;
+            }else
+            return (d.Words);
+        })
 }

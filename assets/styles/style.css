@@ -138,6 +138,19 @@ g text {
     color: wheat;
 }
 
+#charinfo1 .popover {
+    width: 45vw;
+    height: 45vh;
+}
+.modal a.close-modal{
+    top: 0;
+    right: 0;
+}
+
+.modal {
+    background-color: #A4A49C;
+}
+
 /*-------------------------------------- Books information styling */
 
 .data-header {
@@ -180,8 +193,10 @@ ul {
 }
 
 /*----------------------------------- Char list styling*/
-td, th {
-  padding: 1px 4px;
-  border: 1px solid white;
-  color: wheat;
+
+td,
+th {
+    padding: 1px 4px;
+    border: 1px solid white;
+    color: wheat;
 }
