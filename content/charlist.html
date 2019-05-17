@@ -14,11 +14,9 @@
 </head>
 
 <body>
-    <div class="bg-wrapper">
-        <jumbotron>
-            <img src="../assets/images/LOTR.jpg" class="bg-image"></img>
-        </jumbotron>
-    </div>
+    <jumbotron>
+        <img src="../assets/images/LOTR.jpg" class="bg-image" alt="Ring on a dark map" />
+    </jumbotron>
     <!--- Side bar navigation --->
     <div class="wrapper">
         <!-- Sidebar -->
@@ -31,11 +29,9 @@
                     <li>
                         <a href="/content/books.html" class="nav-anchor">Books    <i class="fas fa-book"></i></a>
                     </li>
-                    <br class="nav-break">
                     <li>
                         <a href="/content/movies.html" class="nav-anchor">Films   <i class="fas fa-film"></i></a>
                     </li>
-                    <br class="nav-break">
                     <li class="active">
                         <a href="/content/charlist.html" class="nav-anchor">Characters    <i class="fas fa-list"></i></a>
                     </li>
@@ -43,8 +39,15 @@
 
             </div>
             <div class="info-div">
-                <a href="">
-                    <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"></img>
+                <div class="modal" id="copyright">
+                    <h6>About</h6>
+                    <p>I really hope that this website has brought you some interesting facts and figures about the makeup of the LOTR universe, or for stats guys to prove which film is the best (Return of the King obviously)</p>
+                    <p class="small"><i class="fa fa-copyright"></i>Copyright Daniel Ellis 2019</p>
+                    <p>Photo via <a href="https://www.goodfreephotos.com/">Good Free Photos</a></p>
+
+                </div>
+                <a href="#copyright" rel="modal:open">
+                    <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"/>
                 </a>
             </div>
         </nav>
@@ -63,19 +66,34 @@
             </div>
             <!----- Data sets HERE ---->
             <div class="container-fluid">
+                <div class="modal" id="charListing">
+                    <h6>Full Listing of Characters</h6>
+                    <p>This is a full list of characters mentioned within the first THREE books of the Lord of the Rings with some crossover of individuals from the Hobbit as well. This does not include the gods or first race figures from The Silmarillion.</p>
+                </div>
                 <div class="row">
                     <div class="card data-card col-sm-12">
-                        <h3 class="data-header">List of Characters <a href="#" id="charinfo"><i class="fas fa-info"></i></a></h3>
-                        <div id="characters"></div>
+                        <h3 class="data-header">List of Characters <a href="#charListing" rel="modal:open"><i class="fas fa-info"></i></a></h3>
+                        <table id="list">
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </table>
+                        <!--     <div> This has been commented out as my tablulate data function on charlist.js works well however not well enough for appending 2nd child of each td with ${this()} to use that as a link to an external WIKIA
+                            <table> However i have left it in to enable viewing of this content to show my working.
+                                <th>
+                                    Name
+                                </th>
+                                <th>External Link</th>
+                                <th>Race</th>
+                                <tbody id="list">
+                                </tbody>
+                            </table>
+                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
-
-
-
 
     <!-- jQuery CDN - Slim -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

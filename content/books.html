@@ -14,11 +14,9 @@
 </head>
 
 <body>
-    <div class="bg-wrapper">
-        <jumbotron>
-            <img src="../assets/images/LOTR.jpg" class="bg-image"></img>
-        </jumbotron>
-    </div>
+    <jumbotron>
+        <img src="../assets/images/LOTR.jpg" class="bg-image" alt="1 Ring on a dark map" />
+    </jumbotron>
     <header>
         <div class="wrapper">
             <!-- Sidebar -->
@@ -31,11 +29,9 @@
                         <li class="active">
                             <a href="/content/books.html" class="nav-anchor">Books    <i class="fas fa-book"></i></a>
                         </li>
-                        <br class="nav-break">
                         <li>
                             <a href="/content/movies.html" class="nav-anchor">Films   <i class="fas fa-film"></i></a>
                         </li>
-                        <br class="nav-break">
                         <li>
                             <a href="/content/charlist.html" class="nav-anchor">Characters     <i class="fas fa-list"></i></a>
                         </li>
@@ -47,12 +43,15 @@
                         <h6>About</h6>
                         <p>I really hope that this website has brought you some interesting facts and figures about the makeup of the LOTR universe, or for stats guys to prove which film is the best (Return of the King obviously)</p>
                         <p class="small"><i class="fa fa-copyright"></i>Copyright Daniel Ellis 2019</p>
+                        <p>Photo via <a href="https://www.goodfreephotos.com/">Good Free Photos</a></p>
+
                     </div>
                     <a href="#copyright" rel="modal:open">
-                    <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"></img>
+                    <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"/>
                 </a>
                 </div>
             </nav>
+        </div>
     </header>
     <content>
         <div id="content">
@@ -68,7 +67,7 @@
                 </nav>
             </div>
             <div class="modal" id="charinfo1">
-                <h4>Remunerations</h4>
+                <h4>Ruminations</h4>
                 <p>The chart on above and to the left shows how many times each race has spoken throughout the each book in the LOTR series. This has been categorised further with the chart on the right to correlate the data with how many times in total
                     that a particular race has spoken. We can discern from this data who the predominant characters are within the series by who speaks the most. For Example, the race of Men have more words spoken in The Two Towers because of the interactions
                     within chapters between predominantly human settlements, such as Helms Deep or the Country of Rohan. We can also tell that there must have been some speeches to rouse the defenders of Helms Deep by the King and from Aragorn to help
@@ -112,14 +111,13 @@
                 <div class="row">
                     <div class="card data-card col-sm-12">
                         <h3 class="data-header">Characters by Race <a href="#raceinfo1" rel="modal:open"><i class="fas fa-info"></i></a></h3>
+                        <h5>Representation</h5>
+
                         <div class="row">
-                            <div class="col-xs-12">
-                                <h5>Representation</h5>
-                            </div>
                             <div class="row">
-                                <div class="col-xs-12 col-md-6" id="race-graph"></div>
-                                <div class="col-xs-12 col-md-6">
-                                </div>
+                                <div class="col-xs-3"></div>
+                                <div class="col-xs-9" id="race-graph"></div>
+                                <div class="col-xs-3"></div>
                             </div>
                         </div>
                     </div>

@@ -55,7 +55,7 @@ function show_movie_stats(ndx) {
 //Bar Chart for Revenue
 function show_movie_revenue(ndx) {
     var dim = ndx.dimension(dc.pluck("Name")); // take the name
-    var total_revenue = dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take profits
+    var total_revenue = dim.group().reduceSum(dc.pluck("BoxOfficeRevenueInMillions")); //take revenue
 
     dc.barChart("#movie-profits")
         .height(window.innerHeight - 250)
