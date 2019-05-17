@@ -62,7 +62,7 @@ d3.json('../assets/javaScript/data/characters.json', function (error,data) {
 // the above basic table was available at http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html
 
 
-myJson = fetch('https://dano5342.github.io/LotRDashboard/assets.javaScript/data/characters.json')
+myJson = fetch('https://dano5342.github.io/LotRDashboard/assets/javaScript/data/characters.json')
   .then(function(response) {
     return response.json();
   })
