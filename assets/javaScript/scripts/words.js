@@ -10,7 +10,6 @@ function makeGraphs(error, nameData) {
     show_book_data(ndx);
     show_race_data(ndx);
     wordsByChar(ndx);
-    showTotalWords(ndx);
     dc.renderAll();
 }
 //selector tool for defining races
@@ -224,14 +223,3 @@ function show_race_data(ndx) {
 }
 
 
-function showTotalWords(ndx){
-    var totalWords = ndx.groupAll(dc.pluck("Words"));
-    dc.numberDisplay("#total-words")
-        .formatNumber(d3.format(""))
-        .valueAccessor(function(d){
-            if (d.count == 0){
-                return 0;
-            }else
-            return (d.Words);
-        })
-}
