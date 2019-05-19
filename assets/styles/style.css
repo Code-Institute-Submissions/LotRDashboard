@@ -219,7 +219,7 @@ th {
 
 /*-------------------------------------- Media Queries */
 
-@media (min-width: 1024px) {
+@media (min-width: 1025px) {
     #race-graph {
         padding-left: 400px;
     }
