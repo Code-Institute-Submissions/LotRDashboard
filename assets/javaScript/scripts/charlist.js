@@ -1,4 +1,4 @@
-d3.json('../assets/javaScript/data/characters.json', function(error, data) {
+d3.json('../LotRDashboard/assets/javaScript/data/characters.json', function(error, data) {
 
     function tabulate(data, columns) {
         var table = d3.select('#list').append('table')
