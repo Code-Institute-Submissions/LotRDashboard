@@ -16,12 +16,8 @@ body {
     opacity: 0.7;
 }
 
-/* ------------ Navbar Styles */
 
-.wrapper {
-    display: flex;
-    width: 100%;
-}
+/* ------------ Navbar Styles */
 
 #sidebar {
     width: 247px;
@@ -52,19 +48,6 @@ body {
     border-radius: 35px;
 }
 
-.fa-book {
-    padding-left: 57px;
-
-}
-
-.fa-film {
-    padding-left: 57px;
-}
-
-.fa-list {
-    padding-left: 10px;
-}
-
 .fa-info {
     padding-left: 15px;
     color: wheat;
@@ -87,14 +70,7 @@ body {
 
 }
 
-@media (max-width: 768px) {
-    #sidebar {
-        margin-left: -250px;
-    }
-    #sidebar.active {
-        margin-left: 0;
-    }
-}
+
 
 .list-unstyled {
     text-decoration: none;
@@ -113,6 +89,25 @@ body {
 
 .li {
     padding-top: 5px;
+}
+
+
+/*Top nav Mobile -------------------------*/
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    z-index: 9999;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 
 /* -----------------    Main Content ------ */
@@ -151,9 +146,10 @@ g text {
     width: 45vw;
     height: 45vh;
 }
-.modal a.close-modal{
+
+.modal a.close-modal {
     top: 0;
-    right:0;
+    right: 0;
 }
 
 .modal {
@@ -174,14 +170,16 @@ g text {
     text-align: right;
 }
 
+
 #wordsByChar g.axis.x text {
     transform: rotate(-45deg) translate(-40px, 0px);
-    text-anchor: end;
+    
 }
 
-#race-graph{
-    padding-left: 450px;
+#race-graph {
+    padding-left: 20px;
 }
+
 
 /*-------------------------------- Movie Data styling*/
 
@@ -207,9 +205,60 @@ ul {
 
 /*----------------------------------- Char list styling*/
 
+#list {
+    padding-left: 250px;
+}
+
 td,
 th {
     padding: 1px 4px;
     border: 1px solid white;
     color: wheat;
+}
+
+
+/*-------------------------------------- Media Queries */
+
+@media (min-width: 1024px) {
+    #race-graph {
+        padding-left: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    body {
+        background-color: #333;
+
+    }
+    #content {
+        width: 100%;
+        padding: 15px;
+        min-height: 100vh;
+        transition: all 0.3s;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    #book g.axis.x text {
+        transform: rotate(-45deg) translate(-40px, 0px);
+        
+    }
+    #list {
+        padding: 0;
+    }
+    
+    td,
+    th {
+        padding: 1px 4px;
+        border: 1px solid white;
+        color: wheat;
+        float: left;
+    }
 }

@@ -2,7 +2,7 @@ d3.json('../assets/javaScript/data/characters.json', function(error, data) {
 
     function tabulate(data, columns) {
         var table = d3.select('#list').append('table')
-            .attr("style", "margin-left:150px", "style", "border: 1px solid wheat")
+            .attr("style", "border: 1px solid wheat")
         var thead = table.append('thead')
         var tbody = table.append('tbody');
 

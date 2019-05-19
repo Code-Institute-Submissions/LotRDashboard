@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>LoTR Data<span class="sr-only">Lord of The Rings Data</span></title>
+    <title>LoTR Data - Data from Tolkiens Universe</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.min.css" type="text/css" />
@@ -18,54 +18,58 @@
         <img src="../assets/images/LOTR.jpg" class="bg-image" alt="Ring on a dark map" />
     </jumbotron>
     <!--- Side bar navigation --->
-    <div class="wrapper">
-        <!-- Sidebar -->
-        <nav id="sidebar">
-            <div class="sidebar-header">
-                <h3>LOTR Dashboard</h3>
-            </div>
-            <div class="card nav-card">
-                <ul class="list-unstyled components">
-                    <li>
-                        <a href="./books.html" class="nav-anchor">Books    <i class="fas fa-book"></i></a>
-                    </li>
-                    <br>
-                    <li>
-                        <a href="./movies.html" class="nav-anchor">Films   <i class="fas fa-film"></i></a>
-                    </li>
-                    <br>
-                    <li class="active">
-                        <a href="./charlist.html" class="nav-anchor">Characters    <i class="fas fa-list"></i></a>
-                    </li>
-                </ul>
+    <header>
+        <div id="sidebar-wrapper" class="d-none d-md-block d-lg-block d-xl-block">
+            <div class="wrapper ">
+                <!-- Sidebar -->
+                <nav id="sidebar">
+                    <div class="sidebar-header">
+                        <h3>LOTR Dashboard</h3>
+                    </div>
+                    <div class="card nav-card">
+                        <ul class="list-unstyled components">
+                            <li>
+                                <a href="/index.html" class="nav-anchor">Books<i class="fas fa-book float-right"></i></a>
+                            </li>
+                            <br>
+                            <li>
+                                <a href="/movies.html" class="nav-anchor">Films<i class="fas fa-film float-right"></i></a>
+                            </li>
+                            <br>
+                            <li class="active">
+                                <a href="/charlist.html" class="nav-anchor">Characters<i class="fas fa-list float-right"></i></a>
+                            </li>
+                        </ul>
 
-            </div>
-            <div class="info-div">
-                <div class="modal" id="copyright">
-                    <h6>About</h6>
-                    <p>I really hope that this website has brought you some interesting facts and figures about the makeup of the LOTR universe, or for stats guys to prove which film is the best (Return of the King obviously)</p>
-                    <p class="small"><i class="fa fa-copyright"></i>Copyright Daniel Ellis 2019</p>
-                    <p>Photo via <a href="https://www.goodfreephotos.com/">Good Free Photos</a></p>
+                    </div>
+                    <div class="info-div">
+                        <div class="modal" id="copyright">
+                            <h6>About</h6>
+                            <p>I really hope that this website has brought you some interesting facts and figures about the makeup of the LOTR universe, or for stats guys to prove which film is the best (Return of the King obviously)</p>
+                            <p class="small"><i class="fa fa-copyright"></i>Copyright Daniel Ellis 2019</p>
+                            <p>Photo via <a href="https://www.goodfreephotos.com/">Good Free Photos</a></p>
 
-                </div>
-                <a href="#copyright" rel="modal:open">
-                    <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"/>
-                </a>
-            </div>
-        </nav>
-
-        <div id="content">
-            <!-------           Sidebar Toggler for smaller screens           -->
-            <div class="d-none d-sm-block d-md-none">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                    <div class="container-fluid">
-                        <button type="button" id="sidebarCollapse" class="btn btn-info">
-                    <i class="fas fa-align-left"></i>
-                    <span>Toggle Sidebar</span>
-                </button>
+                        </div>
+                        <a href="#copyright" rel="modal:open">
+                    <img src="../assets/images/1Ring.jpg" class="info-img" alt="The One Ring on a map"/></a>
                     </div>
                 </nav>
             </div>
+        </div>
+
+    </header>
+    <!-- Main content below -->
+    <content>
+        <div id="content">
+
+            <!-------           top navbar Toggler for smaller screens           -->
+            <nav>
+                <div class="topnav d-lg-none" id="myTopnav">
+                    <a href="/index.html" class="nav-anchor">Books</a>
+                    <a href="/movies.html" class="nav-anchor">Movies</a>
+                    <a href="/charlist.html" class="active nav-anchor">Characters</a>
+                </div>
+            </nav>
             <!----- Data sets HERE ---->
             <div class="container-fluid">
                 <div class="modal" id="charListing">
@@ -75,7 +79,7 @@
                 <div class="row">
                     <div class="card data-card col-sm-12">
                         <h3 class="data-header">List of Characters <a href="#charListing" rel="modal:open"><i class="fas fa-info"></i></a></h3>
-                            <div id="list"></div>
+                        <div id="list"></div>
                         <!--     <div> This has been commented out as my tablulate data function on charlist.js works well however not well enough for appending 2nd child of each td with ${this()} to use that as a link to an external WIKIA
                             <table> However i have left it in to enable viewing of this content to show my working.
                                 <th>
@@ -91,8 +95,7 @@
                 </div>
             </div>
         </div>
-    </div>
-
+    </content>
     <!-- jQuery CDN - Slim -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <!-- Popper.JS -->

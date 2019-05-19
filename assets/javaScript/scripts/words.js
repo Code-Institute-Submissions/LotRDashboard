@@ -16,7 +16,6 @@ function makeGraphs(error, nameData) {
 function show_race_selector(ndx) {
     dim = ndx.dimension(dc.pluck("Race"));
     group = dim.group();
-console.log(dim)
     dc.selectMenu("#race-selector")
         .dimension(dim)
         .group(group);
@@ -207,9 +206,6 @@ function show_race_data(ndx) {
         }); //The code for the above reduce was assisted with through stack overflow.
     //by Gordon Woodhull
     dc.pieChart('#race-graph')
-        .height(350)
-        .width(600)
-        .radius(250)
         .innerRadius(40)
         .valueAccessor(function(kv) {
             return Object.keys(kv.value).length;
