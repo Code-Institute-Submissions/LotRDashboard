@@ -30,7 +30,6 @@ I have used a few different technologies to help my code this dashboard these ar
 6. FontAwesome for use of Information, and copyright tags for more UX based usability.
 
 
-# To be done
 ## Testing
 So far during the development I have been attempting to build tables and charts using DC and crossfilter. This has been trial and error work which can be seen in the version control, for example
 at the moment of writing the data is currently displaying incorrectly, I have been trying different methods to remove certain aspects of the JSON's and to manipulate the data so that it looks 
@@ -49,10 +48,11 @@ User C is able to view the race spread of named characters in the books, however
 #### Bugs witin Testing
 ##### Table
 I had a lot of issues with implementing my table data as can be seen in my previous uploads to GitHub. I also had issues making the table data without having to write the HTML until I found a tabluate function online, which I have utilised as this has saved
-myself time making the table.  I would've liked to append using the DOM however having issues with fetch and JSON data here this hasnt worked as planned, so the table will be as is without external linkage to the LOTR wikia.
+myself time making the table.  ~~I would've liked to append using the DOM however having issues with fetch and JSON data here this hasnt worked as planned, so the table will be as is without external linkage to the LOTR wikia.~~ This has been fixed using a regex to append html by changing the appending of texts to html this has allowed linking to an external wiki.
 ##### Stack Chart
-I also have a bug where "0" is a dataset within my Times a race has spoken graph, I havent been able to wipe this zero out and this also
-displays the "Undead" race as the same color as the "Ainur" still trying to figure this one out, however I have tried using different numbers of domains and adding more range in terms of color to make this less noticeable.
+I also have a bug where "0" is a dataset within my Times a race has spoken graph, ~~I havent been able to wipe this zero out and this also
+displays the "Undead" race as the same color as the "Ainur" still trying to figure this one out, however I have tried using different numbers of domains and adding more range in terms of color to make this less noticeable.~~ Upon further inspection and bug testing 
+I think this may be something to do with the selector, having checked over all lines in my JSON for any additional races and having found none.
 
 
 
