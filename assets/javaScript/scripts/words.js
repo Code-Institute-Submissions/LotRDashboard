@@ -1,5 +1,5 @@
 queue()
-    .defer(d3.json, "./data/wordsByChar.json")
+    .defer(d3.json, "../assets/javaScript/data/wordsByChar.json")
     .await(makeGraphs);
 
 function makeGraphs(error, nameData) {
