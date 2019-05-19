@@ -1,5 +1,5 @@
 queue()
-    .defer(d3.json, "../lotr-dashboard/assets/javaScript/data/wordsByChar.json")
+    .defer(d3.json, "../LotRDashboard/assets/javaScript/data/wordsByChar.json")
     .await(makeGraphs);
 
 function makeGraphs(error, nameData) {
