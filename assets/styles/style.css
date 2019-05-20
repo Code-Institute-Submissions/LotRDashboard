@@ -241,6 +241,7 @@ td a:hover {
     #race-graph {
         padding-left: 400px;
     }
+
 }
 
 @media (max-width: 768px) {
@@ -257,9 +258,9 @@ td a:hover {
     #content {
         width: 100%;
         padding: 15px;
-        min-height: 100vh;
+        min-height: 40vh;
         transition: all 0.3s;
-        position: absolute;
+        position: static;
         top: 0;
         right: 0;
     }
