@@ -1,5 +1,5 @@
 queue()
-    .defer(d3.json, "../LotRDashboard/assets/javaScript/data/movies.json")
+    .defer(d3.json, "../LotRDashboard/assets/javascript/data/movies.json")
     .await(makeGraphs);
 
 function makeGraphs(error, nameData) {
