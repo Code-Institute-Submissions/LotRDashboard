@@ -49,14 +49,12 @@ body {
 }
 
 .fa-info {
-    padding-left: 15px;
     color: wheat;
 }
 
 .fa-info:hover {
     color: #debd97;
-    border-radius: 25px;
-    background-color: white;
+    font-size: 35px;
 }
 
 .info-div {
