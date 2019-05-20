@@ -148,21 +148,7 @@ function show_book_data(ndx) {
         .colors(d3.scale.ordinal().domain(["Ainur", "Dead", "Dwarf", "Elf", "Ent", "Hobbit", "Men", "Nazgul", "Orc"])
             .range(["#F2E96B", "#59594B", "#D99036", "#F2BC79", "#8C6746", "#B1AA4E", "#A4A49C", "#B2762D", "#DCAB6E", "#5A422D", "#5a462d"]))
         .renderHorizontalGridLines(true);
-        //The Below code was commented out to try and fix the bug of "0" appearing on the legend and at the bottom of the stacks. 
-        // Still not figured out.
-   /* var stackedChart = dc.barChart("#book");
-    stackedChart
-        .dimension(dim)
-        .group(group)
-        .stack(wordsByAinur,"Ainur")
-        .stack(wordsByDead,"Dead")
-        .stack(wordsByDwarf,"Dwarf")
-        .stack(wordsByElf,"Ainur")
-        .stack(wordsByEnt,"Ainur")
-        .stack(wordsByMen,"Ainur")
-        .stack(wordsByHobbit,"Ainur")
-        .stack(wordsByNazgul,"Ainur")
-        .stack(wordsByOrc,"Ainur")*/
+
 }
 //Words by characters here
 
