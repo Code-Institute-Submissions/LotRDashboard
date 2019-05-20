@@ -2,8 +2,8 @@ d3.json('../LotRDashboard/assets/javaScript/data/characters.json', function(erro
 
     function tabulate(data, columns) {
         var table = d3.select('#list').append('table')
-            .attr("style", "border: 1px solid wheat")
-        var thead = table.append('thead')
+            .attr("style", "border: 1px solid wheat");
+        var thead = table.append('thead');
         var tbody = table.append('tbody');
 
         // append the header row
