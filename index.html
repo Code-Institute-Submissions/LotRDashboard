@@ -28,13 +28,13 @@
                     <div class="card nav-card">
                         <ul class="list-unstyled components">
                             <li class="active">
-                                <a href="index.html" class="nav-anchor">Books<i class="fas fa-book float-right"></i></a>
+                                <a href="#booksinfo" class="nav-anchor">Books<i class="fas fa-book float-right"></i></a>
                             </li>
                             <li style="padding-top: 15px">
-                                <a href="movies.html" class="nav-anchor">Films<i class="fas fa-film float-right"></i></a>
+                                <a href="#movieinfo" class="nav-anchor">Movies<i class="fas fa-film float-right"></i></a>
                             </li>
                             <li style="padding-top: 15px">
-                                <a href="charlist.html" class="nav-anchor">Characters<i class="fas fa-list float-right"></i></a>
+                                <a href="#listinginfo" class="nav-anchor">Characters<i class="fas fa-list float-right"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -55,7 +55,7 @@
 
 
     </header>
-    <section>
+    <section id="booksinfo">
         <div id="content">
             <!--           top navbar Toggler for smaller screens           -->
             <div class="topnav d-lg-none" id="myTopnav">
@@ -122,8 +122,101 @@
 
     </section>
 
+    <section id="movieinfo">
+        <div id="content">
 
+            <!-- Data sets HERE -->
+            <div class="container-fluid">
+                <div class="modal" id="movieInfo1">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <p class="small">
+                                We can see this data correlated here below:
+                            </p>
+                            <ul class="ordered">
+                                <li class="ordered">Return of the King: Revenue:$1.120Bn / Budget: $94mil</li>
+                                <li class="ordered">Unexpected Journey: Revenue: $1.021Bn / Budget: $200mil</li>
+                                <li class="ordered">Desolation of Smaug: Revenue:$958.4mil / Budget: $217mil</li>
+                                <li class="ordered">Battle of the Five Armies: Revenue: $956mil / Budget: $250mil</li>
+                                <li class="ordered">The Two Towers: Revenue:$926mil / Budget: $94mil</li>
+                                <li class="ordered">The Fellowship: Revenue: $871.5mil / Budget: $93mil</li>
+                                <li class="ordered">LOTR Trilogy: Revenue: $2,917.5Bn / Budget: $281mil / Profit: $2,636.5Bn</li>
+                                <li class="ordered">The Hobbit Trilogy: Revenue: $2,935.4Bn / Budget: $667mil / Profit: 2,268.4Bn</li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-12">
+                            <p>We can discern from this data that a higher budget does not always equal a better performance in the Cinemas. The spread budget for the original trilogy is $187mil making that franchise far more profitable as the net profits
+                                head to $2,636.5Bn. Where as the Hobbit Trilogy budget comes in at $667mil so the net profit here is only $2,268.4Bn. What is surprising here is the fact in the original trilogy the creators had to literally invent new
+                                technology to be able to present many thousands of individuals on screen who were not actually there, this groundbroke CGI for years to come, especially in scenes from The Two Towers and the siege of Gondor in Return of
+                                the King. We could also safely believe that "Hype" was involved for the second trilogy, as seen in the movies reviews and academy wins.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="card data-card col-sm-12">
+                        <h3 class="data-header">Movie Profits & Budget<a href="#movieInfo1" rel="modal:open"><i class="fas fa-info"></i></a></h3>
+                        <div id="trilogy-selector"></div>
+                        <p class="small">These two charts display units in millions.</p>
+                        <div class="row">
+                            <!-- This pie chart will show movie grossing profit data. -->
+                            <div class="col-xs-12 col-md-12 col-lg-6">
+                                <div id="movie-profits"></div>
+                            </div>
+                            <div class="col-xs-12 col-md-12 col-lg-6">
+                                <!-- Movie budgeting here for another interactive piechart -->
+                                <div id="movie-budget"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="modal" id="scores">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <p>This looks unfortunate for the latter trilogy, despite having the higher budget it comes nowhere near to close to the original trilogy of films in terms of awards. We could take from this data that it was the groundbreaking
+                                technologies used or potentially a much better written screenplay, it may also be because the higher budget resulted in far more CGI. The quality of the scores reflects exactly as one would expect to in terms of academy
+                                award wins.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="card data-card col-sm-12 content-center">
+                        <h3 class="data-header">Movie Scores and Awards <a href="#scores" rel="modal:open"><i class="fas fa-info"></i></a></h3>
 
+                        <div class="row content-center">
+                            <!-- This graph will show interchangeable data from movies.json-->
+                            <!-- Trilogies, RT score, budget, AA wins/Noms -->
+                            <div class="col-xs-12 col-md-6" id="movie-scores"></div>
+                            <div class="col-xs-12 col-md-6" id="academy-wins"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="listinginfo">
+        <div id="content">
+
+            <!-- Data sets HERE -->
+            <div class="container-fluid">
+                <div class="modal" id="charListing">
+                    <h6>Full Listing of Characters</h6>
+                    <p>This is a full list of characters mentioned within the first THREE books of the Lord of the Rings with some crossover of individuals from the Hobbit as well. This does not include the gods or first race figures from The Silmarillion.</p>
+                </div>
+                <div class="row">
+                    <div class="card data-card col-sm-12">
+                        <h3 class="data-header">List of Characters <a href="#charListing" rel="modal:open"><i class="fas fa-info"></i></a></h3>
+                        <div id="list"></div>
+                        <!--     <div> This has been commented out as my tablulate data function on charlist.js works well however not well enough for 
+                        appending 2nd child of each td with ${this()} to use that as a link to an external WIKIA-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- jQuery CDN - Slim -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -138,6 +231,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
     <script src="./assets/javascript/scripts/words.js"></script>
+    <script src="./assets/javascript/scripts/movies.js"></script>
+    <script src="./assets/javascript/scripts/charlist.js"></script>
+
 </body>
 
 </html>
