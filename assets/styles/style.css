@@ -122,7 +122,7 @@ body {
 #content {
    /* width: calc(100% - 250px);*/
     padding: 40px;
-    min-height: 100vh;
+    min-height: 50vh;
     transition: all 0.3s;
     position: static;
     top: 0;
