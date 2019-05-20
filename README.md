@@ -74,3 +74,8 @@ I also took a basic table forming function (tabulate) from here: http://www.d3no
 I recieved inspiration for this project from one of CI's mentors, Eventyret (Simen Daelin from his website here: https://eventyret.github.io/PokeDash/)
 ## Sources
 The data for these charts and tables are taken from here https://www.kaggle.com/mokosan/lord-of-the-rings-character-data a big thanks to https://www.kaggle.com/mokosan Moko Sharma for his data!
+
+
+### Continuing the Project
+I'd like to add pagination as a feature to my table when I am more knowledgable on this kind of function, I would also like to run a script that changes the sizes of the graphs properly to screen size and have it look a lot better on mobile devices in the future
+I shall work on this in my sparetime between projects!
