@@ -31,12 +31,11 @@ I have used a few different technologies to help my code this dashboard these ar
 
 
 ## Testing
-So far during the development I have been attempting to build tables and charts using DC and crossfilter. This has been trial and error work which can be seen in the version control, for example
-at the moment of writing the data is currently displaying incorrectly, I have been trying different methods to remove certain aspects of the JSON's and to manipulate the data so that it looks 
-and feels better, being as responsive as possible. 
+So far during the development I have been attempting to build tables and charts using DC and crossfilter. This has been trial and error work which can be seen in the version control, I have been trying different methods to remove certain aspects of the JSON's and to manipulate the data so that it looks 
+and feels better, being as responsive as possible to the user, and dependent on what size device they are using the data will display according to heights and widths. Removing certain elements on certain sizes due to D3 not being 100% responsive.
 
 The testing for the Table Creation has been trialing and erroring different table building techniques, the first technique wrote a table with "Object, object, object..."etc. for each instance of a character
-in the associated characters.json
+in the associated characters.json, now this writes the table appending html to the second child of each td cell.
 
 With my Modals I had first used popovers however the sizing of these was not compatible and this resulted in a ridiculous long box appearing over the elements. Modals were used in this instance to minimize this 
 and to enable users to have it cover the data so they can see the breakdown and assessment of data.
@@ -58,7 +57,7 @@ I think this may be something to do with the selector, having checked over all l
 
 
 ## Deployment
-The website has been deployed on GitHub Pages, the final dashboard includes all of the above mentioned features, minus the HTML manipulation of the tablulate function within charlist.js. To run this locally to see the code 
+The website has been deployed on GitHub Pages, the final dashboard includes all of the above mentioned features,~~ minus the HTML manipulation of the tablulate function within charlist.js.~~ To run this locally to see the code 
 all is needed is a pull request on github this will give you the full data sets and the code of the dashboard.
 I also put all my HTML, CSS and JS into checkers from w3Schools/Esprima prior to uploading to GitHubPages. To ensure that I had as clean as possible code - I am aware of a warning from my jumbotron apparently not being eligible for being a child of the body tag   .
 
@@ -69,7 +68,7 @@ I obtained 2 free to use images for the background and the Copyright sections on
 and the second was available here https://www.pexels.com/de-de/foto/herr-der-ringe-herr-des-rings-knechten-ring-1228268/. I'd like to thank both websites and any individuals involved for allowing free use on these images.
 
 ## Acknowledgements 
-I was helped out by stackoverflow for a reduce function in my race dataset from Gordon Woodhull here: https://stackoverflow.com/questions/56039110/is-there-a-way-to-count-each-instance-of-person-in-race-only-once-then-disp/56048844?noredirect=1#comment98795755_56048844
+I was helped out by stackoverflow for a reduce function in my race dataset by Gordon Woodhull here: https://stackoverflow.com/questions/56039110/is-there-a-way-to-count-each-instance-of-person-in-race-only-once-then-disp/56048844?noredirect=1#comment98795755_56048844
 I also took a basic table forming function (tabulate) from here: http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html.
 
 I recieved inspiration for this project from one of CI's mentors, Eventyret (Simen Daelin from his website here: https://eventyret.github.io/PokeDash/)
