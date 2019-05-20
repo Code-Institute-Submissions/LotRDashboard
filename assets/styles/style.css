@@ -89,8 +89,13 @@ body {
 
 .nav-anchor {
     color: white;
-    text-decoration: none;
+    text-decoration: none!important;
     font-size: 20px;
+}
+
+.nav-anchor:hover {
+    color: #debd97;
+    text-decoration: none!important;
 }
 
 .li {
