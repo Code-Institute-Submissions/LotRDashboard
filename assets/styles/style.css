@@ -216,7 +216,10 @@ th {
     color: wheat;
 }
 
-
+td a {
+    text-decoration: none;
+    color: wheat;
+}
 /*-------------------------------------- Media Queries */
 
 @media (min-width: 1025px) {
